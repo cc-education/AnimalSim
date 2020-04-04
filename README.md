@@ -160,7 +160,9 @@ Insgesamt wurden folgende Hardware-Komponenten für die Gruppenarbeit in fünf T
 * Breadboards
 * Jumper Kabel
 
-Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu intuitiv bedienbare _Arduino Blockly_-[Programmieroberfläche](https://blockly.sensebox.de/), die stabil und zuverlässig in allen Browsern als Web-App läuft. Selbst Schüler_innen ohne Vorkenntnisse können so problemlos in die Programmierung von Sensoren sowie einiger Aktoren \(LEDs, Display, Audio und Stepper- bzw. Servo-Motor\) einsteigen. Ein deutschsprachiges Tutorial in Form eines GitBooks begleitet die Schüler_innen sogar im eigenständigen Arbeiten. Der Quellcode wird gut sichtbar im rechten Fensterbereich angezeigt, sodass der Quellcode bereits während der Programmierung mit Blöcken in den Unterricht einbezogen werden kann. Die so programmierten "Sketche" können online kompiliert und leicht und unkompliziert per USB auf die SenseBox als .ino-Dateien übertragen werden. Auch das Speichern von Blöcken im XML-Format ist möglich. ![](.gitbook/assets/1.jpeg)
+Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu intuitiv bedienbare _Arduino Blockly_-[Programmieroberfläche](https://blockly.sensebox.de/), die stabil und zuverlässig in allen Browsern als Web-App läuft. Selbst Schüler_innen ohne Vorkenntnisse können so problemlos in die Programmierung von Sensoren sowie einiger Aktoren \(LEDs, Display, Audio und Stepper- bzw. Servo-Motor\) einsteigen. Ein deutschsprachiges Tutorial in Form eines GitBooks begleitet die Schüler_innen sogar im eigenständigen Arbeiten. Der Quellcode wird gut sichtbar im rechten Fensterbereich angezeigt, sodass der Quellcode bereits während der Programmierung mit Blöcken in den Unterricht einbezogen werden kann. Die so programmierten "Sketche" können online kompiliert und leicht und unkompliziert per USB auf die SenseBox als .ino-Dateien übertragen werden. Auch das Speichern von Blöcken im XML-Format ist möglich. 
+
+![](.gitbook/assets/1.jpeg)
 
 ### 3D-Modellierung & 3D-Druck
 
@@ -200,13 +202,17 @@ Zudem lieferten unsere Kooperationspartner auch fur unsere Zwecke hervorragend g
 
 Die ursprünglich geplante Pränsetation des Exponats beinhaltete einen 3D gedruckten Sockel. In diesem sollte die gesamte Sensoriksteuerung untergebracht werden. Die Außenwände dieses Sockels sollte wiederum den Projektitel und die wichtigsten Kooperationspartner zeigen. Auf dieser "Box" wiederum sollte auf einer Säule das eigentliche Exponat thronen \(siehe Abbildung 2\).
 
-![](.gitbook/assets/4.png)Abbildung 2: Das ursprüngliches Design des Sockels. Der 3D-Druck hätte jedoch zu lange gedauert, sodass ein andere Formder Präsentation gefunden werden musste.
+Abbildung 2: Das ursprüngliches Design des Sockels. Der 3D-Druck hätte jedoch zu lange gedauert, sodass ein andere Formder Präsentation gefunden werden musste.
+
+![](.gitbook/assets/4.png)
 
 Der Druck dieses Sockels hätte allerdings zwischen 14. Stunden \(für den 3D-Drucker unseres Kooperationspartners Stadtbibliothek Köln\) und 2 Tagen und 8 Stunden \(heimischer amteuerhafter 3D-Drucker\) gedauert, sodass aus Zeit-und sicherheitstechnischen Gründen auf einen 3D gedruckten Sockel verzichtet werden musste.
 
 Ein neuer Ansatz wurde aber schnell in Rücksprache mit Frau Anthes gefunden: eine handelsübliche transparente "Wahblox". Diese konnte unkompliziert bestellt und für unsere angepasst werden \(siehe Abbildung 3\).
 
-![neuer\_Versuch](.gitbook/assets/5.jpeg)Abbildung 3: Zwischenstand des Exponats. Die Wahlbox für unsere Zwecke angepasst. Die MCU der Sensebox und der Feinstaubsensor wurden "frei-schwebend" montiert, um sie in Szene zu setzen. Das Modell wiederum wurde auf der Box montiert. Die Sensorik wurde in diesem Schritt weder montiert noch verkabelt.
+Abbildung 3: Zwischenstand des Exponats. Die Wahlbox für unsere Zwecke angepasst. Die MCU der Sensebox und der Feinstaubsensor wurden "frei-schwebend" montiert, um sie in Szene zu setzen. Das Modell wiederum wurde auf der Box montiert. Die Sensorik wurde in diesem Schritt weder montiert noch verkabelt.
+
+![neuer\_Versuch](.gitbook/assets/5.jpeg)
 
 Diese Änderung der ursprünglich geplanten Präsentation bietete zudem jede Menge Chancen.
 
