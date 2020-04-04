@@ -1,1 +1,2 @@
-# AnimalSim
+# Initial page
+
