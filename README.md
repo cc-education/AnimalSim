@@ -4,7 +4,7 @@ description: Tiersimulation mit Microcontroller und 3D-Druck
 
 # AnimalSim
 
-## Übersicht
+## Übersicht 1
 
 Im Zentrum der in Kollaboration der Autorinnen entwickelten und durchgeführten Unterrichtsidee "Tiersimulation mit Mikrocontroller und 3D-Druck" steht das Exponat einer Wespensimulation und eine dazugehörige selbst produzierte Projektwebseite. Ziel des Projekts war die Entwicklung eines Prototypen für eine Art Verhaltenstrainer im öffentlichen Raum, durch den Menschen das Verhalten einer Wespe besser verstehen können. In direkter Interaktion mit dem Verhaltenssimulator wird deutlich, wann eine Wespe Stress hat und eventuell zusticht. Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört.
 
