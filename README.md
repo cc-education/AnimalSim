@@ -214,30 +214,6 @@ Als größte Schwierigkeit und neben den sonstigen, organisatorischen Herausford
 
 Zudem lieferten unsere Kooperationspartner auch fur unsere Zwecke hervorragend geeignetes Filament. So besteht der Körper der Wespe aus sogenanntem Thermofilament. Dieses Material ändert bei Wärmeveränderung die Farb - in unserem Fall ist es bei Normaltemperatur rot und wird bei Temperaturen über 30°C weiß. Die Flügel wiederum bestehen aus einem im dunkeln leuchtendes PLA; auf diese Weise konnte wir auch das Verhalten der Wepse in der Nacht simulieren - die im dunkeln leuchtenden Flügel symbolisieren dabei den Flug in ihr heimisches Nest.
 
-#### Von Erfolgserlebnissen und Schwierigkeiten - Verbau der Sensorik in unserem 3D-Modell
-
-Die ursprünglich geplante Pränsetation des Exponats beinhaltete einen 3D gedruckten Sockel. In diesem sollte die gesamte Sensoriksteuerung untergebracht werden. Die Außenwände dieses Sockels sollte wiederum den Projektitel und die wichtigsten Kooperationspartner zeigen. Auf dieser "Box" wiederum sollte auf einer Säule das eigentliche Exponat thronen \(siehe Abbildung 2\).
-
-Abbildung 2: Das ursprüngliches Design des Sockels. Der 3D-Druck hätte jedoch zu lange gedauert, sodass ein andere Formder Präsentation gefunden werden musste.
-
-![](.gitbook/assets/4.png)
-
-Der Druck dieses Sockels hätte allerdings zwischen 14. Stunden \(für den 3D-Drucker unseres Kooperationspartners Stadtbibliothek Köln\) und 2 Tagen und 8 Stunden \(heimischer amteuerhafter 3D-Drucker\) gedauert, sodass aus Zeit-und sicherheitstechnischen Gründen auf einen 3D gedruckten Sockel verzichtet werden musste.
-
-Ein neuer Ansatz wurde aber schnell in Rücksprache mit Frau Anthes gefunden: eine handelsübliche transparente "Wahblox". Diese konnte unkompliziert bestellt und für unsere angepasst werden \(siehe Abbildung 3\).
-
-Abbildung 3: Zwischenstand des Exponats. Die Wahlbox für unsere Zwecke angepasst. Die MCU der Sensebox und der Feinstaubsensor wurden "frei-schwebend" montiert, um sie in Szene zu setzen. Das Modell wiederum wurde auf der Box montiert. Die Sensorik wurde in diesem Schritt weder montiert noch verkabelt.
-
-![neuer\_Versuch](.gitbook/assets/5.jpeg)
-
-Diese Änderung der ursprünglich geplanten Präsentation bietete zudem jede Menge Chancen.
-
-Erstens war in diesem Fall das Einsatz-Leistungsverhältnis extrem gut. Neben der einfachen Beschaffung, konnte die Box, die aus Kunststoff besteht, mit einfachsten Mitteln - Dremel, einige Gewindestangen und Muttern - für unsere Zwecke angepasst werden.
-
-Zweitens steht auf diese Weise der 3D-Druck unseres Modells stärker im Fokus. Wäre der Sockel ebenso mit einem 3D-Drucker produziert worden, wäre der 3D-Druck für einige Benutzer\*innen in den Vordergrund getreten. Unser interaktives Modell soll jedoch stets im Fokus stehen.
-
-Und drittens kann dieser Form eines Sockels die Sensorik und insbesondere die SenseBox als Herzstück des interaktiven Exponats besser präsentiert werden. Anders gesagt: Während es in einer 3D gedruckten Box versteckt worden wäre, ermöglicht eine transparente Box eine ansprechende Ausstellung der microntrollerorientierten Sensorik.
-
 ## Blog Präsentation
 
 Die eigens für dieses Projekt aufgesetzte Webseite unter der URL [https://jacanthes.wixsite.com/tiersimulationen](https://jacanthes.wixsite.com/tiersimulationen) hatte verschiedene entscheidende Funktionen:
@@ -256,8 +232,77 @@ Der gesamte Informatik-Kurs der Jahrgangsstufe 8, der für das Thema Sensorik zu
 
 Die dritte Gruppe - der Informatik-Kurs der Jahrgangsstufe 9 - benötigte für das 3D-Modell sowohl die Daten des NW-Kurses zur Modellierung des Torsos, als auch die Informationen des Sensorik-Teams, da sie Angaben zu den Sensoren für die Planung des Exponats und die Verbauung von Hardware-Komponenten benötigten. Ihre Ergebnisse verfassten sie unter dem Label "3D-Modell".
 
+## Das Exponat
+
+### Das Exponat auf einem Blick
+
+<img src=".gitbook/assets/8.jpg" height="300" />
+
+Abbildung 1: Die Vorderansicht des Exponats. Gut zu erkennen ist das 3D gedruckte Modell und die umfunktionierte Wahlbox. Ebenfalls direkt ersichtlich ist der Bodenfeuchtesensor und der Ultrschallentfernungssensor. 
+
+<img s src=".gitbook/assets/9.jpg" height="300" />
+
+Abbildung 2: Die Rückansicht des Exponats. Hier sind auch die im Modell verbauten Sensoren - Temperatur und Luftfeuchtigkeit, Temperatur und Luftdruck und sichtbares/UV-Licht - erkennbar. Ein besonderes Augenmerk bildet die RGB-Led mit deren Hilfe die Ausgabe der Simulation visualisiert wird. 
+
+### Das Exponat im detailierten Prozess
+#### Von Erfolgserlebnissen und Schwierigkeiten - Verbau der Sensorik in unserem 3D-Modell
+
+Die ursprünglich geplante Pränsetation des Exponats beinhaltete einen 3D gedruckten Sockel. In diesem sollte die gesamte Sensoriksteuerung untergebracht werden. Die Außenwände dieses Sockels sollte wiederum den Projektitel und die wichtigsten Kooperationspartner zeigen. Auf dieser "Box" wiederum sollte auf einer Säule das eigentliche Exponat thronen \(siehe Abbildung 2\).
+
+Abbildung 2: Das ursprüngliches Design des Sockels. Der 3D-Druck hätte jedoch zu lange gedauert, sodass ein andere Formder Präsentation gefunden werden musste.
+
+![](.gitbook/assets/4.png)
+
+Der Druck dieses Sockels hätte allerdings zwischen 14. Stunden \(für den 3D-Drucker unseres Kooperationspartners Stadtbibliothek Köln\) und 2 Tagen und 8 Stunden \(heimischer amteuerhafter 3D-Drucker\) gedauert, sodass aus Zeit-und sicherheitstechnischen Gründen auf einen 3D gedruckten Sockel verzichtet werden musste.
+
+Ein neuer Ansatz wurde aber schnell in Rücksprache mit Frau Anthes gefunden: eine handelsübliche transparente "Wahblox". Diese konnte unkompliziert bestellt und für unsere angepasst werden \(siehe Abbildung 3\).
+
+Diese Änderung der ursprünglich geplanten Präsentation bietete zudem jede Menge Chancen.
+
+Erstens war in diesem Fall das Einsatz-Leistungsverhältnis extrem gut. Neben der einfachen Beschaffung, konnte die Box, die aus Kunststoff besteht, mit einfachsten Mitteln - Dremel, einige Gewindestangen und Muttern - für unsere Zwecke angepasst werden.
+
+Zweitens steht auf diese Weise der 3D-Druck unseres Modells stärker im Fokus. Wäre der Sockel ebenso mit einem 3D-Drucker produziert worden, wäre der 3D-Druck für einige Benutzer\*innen in den Vordergrund getreten. Unser interaktives Modell soll jedoch stets im Fokus stehen.
+
+Und drittens kann dieser Form eines Sockels die Sensorik und insbesondere die SenseBox als Herzstück des interaktiven Exponats besser präsentiert werden. Anders gesagt: Während es in einer 3D gedruckten Box versteckt worden wäre, ermöglicht eine transparente Box eine ansprechende Ausstellung der microntrollerorientierten Sensorik.
+
+#### Verbau der Sensorik - von der Wahlbox zum Exponat 
+
+Neben der einfachen Beschaffung und dem geringen Preis bietet diese Änderung der ursprünglich geplanten Präsentation zudem jede Menge Chancen.  
+
+![neuer\_Versuch](.gitbook/assets/5.jpeg)
+Abbildung 4: Zwischenstand des Exponats. Die Wahlbox für unsere Zwecke angepasst. Die MCU der Sensebox und der Feinstaubsensor wurden "frei-schwebend" montiert, um sie in Szene zu setzen. Das Modell wiederum wurde auf der Box montiert. Die Sensorik wurde in diesem Schritt weder montiert noch verkabelt. 
+
+Erstens war in diesem Fall das Einsatz-Leistungsverhältnis extrem gut. Neben der einfachen Beschaffung, konnte die Box, die aus Kunststoff besteht, mit einfachsten Mitteln - Dremel, einige Gewindestangen und Muttern - für unsere Zwecke angepasst werden. 
+
+Zweitens steht auf diese Weise unser Modell stärker im Fokus. Wäre der Sockel ebenso mit einem 3D-Drucker produziert worden, wäre der 3D-Druck für einige Benutzer\*innen in den Vordergrund getreten. Unser interaktives Modell soll jedoch stets im Fokus stehen.
+
+Und drittens kann über einen transparenten Sockel die Sensorik und insbesondere die SenseBox als Herzstück des interaktiven Exponats besser präsentiert werden. Anders gesagt: Während es in einer 3D gedruckten Box versteckt worden wäre, ermöglicht eine transparente Box eine ansprechende Ausstellung der microntrollerorientierten Sensorik.
+
+
+Beim Verbau der Sensorik wurde, wie im gesamten Projekt, die in informationstechnischen Kreisen zurecht weit verbreitete KISS-Philosophie beherzigt: _keep it simple, stupid_. Die gesamte Sensorik wurde mit Heißkleber am Exponat bzw. am Sockel befestigt. Der Bodenfeuchtesensor wiederum wurde direkt in der Kunststoffhülle der umfunktionierten Wahlbox positioniert. Dabei wurde mit Hilfe eines Multifunktionswerkzeugs ein kleiner Schlitz in das Kunststoff gefräst und der Sensor erneut mit Heißkleber fixiert. 
+
+Die Verkabelung wiederum erfolgte über die sich öffnende Rückseite des Sockels. Dies hat gleich mehrere Vorteile: 
+
+Erstens bildet die Rückseite unsere Exponats eigentlich die Oberseite der Wahlbox, wodurch der bereits vorhandene und später noch größer gefräste (Einwurf-)Schlitz als Führung für das Kabelmanagement zweckentfremded werden konnte. 
+
+Zweitens ist auf diese Weise das Innenleben direkt und leicht zur Verkabelung, Modizierung und Wartung durch unsere Schüler\*innen zugänglich. Da die Halterungen der MCU und des Feinstaubssensors einfache Gewindestangen sind, die an der öffnenbaren Rückseite befestigt sind, wird beim Öffnen des Exponatssockel "autoamtisch" die MCU und der Feinstaubsensor mit herausgezogen. 
+
 ## Zukunftsvision
+Der Blick in eine mögliche Zukunft lässt sich in zwei verschiedene Visionen einteilen. Einerseits empfiehlt es sich, die Weiterentwicklung des bestehenden Exponants als Entwicklungsperspektive zu setzen, auf der anderen Seite wären auch weitere, neue Simulation zu planen, zu bauen und unserer Idee folgend im öffentlichen Raum in direkter Interaktion mit der Öffentlichkeit zu positionieren. 
 
-* Weitere Lebewesen \(z. B. andere "Stechinsekten"\)
-* Kritische Reflexion, etc.
+### Weiterentwicklung des bestehenden Exponats
 
+Perspektivisch wurde die Weiterentwicklung des bestehenden Projekts von einer kleinen Gruppe von Schüler\*innen, die als Bindeglied zwischen der Modellierung des 3D-Drucks und der Programmierung der Sensorik eingesetzt wurden, nämlich von Julian Haag, Irmak Asan und Benjamin Aleixo geplant. 
+Die Grundidee ist denkbar einfach: das Exponat soll noch interaktiver und damit spannender in der Benutzung sein. Geplant wurde dabei eine Art "Umweltbox", die um das eigentlich Exponant gebaut werden soll. Dabei sollen die durch Sensorik des Exponats erfassten Umweltbedingungen durch einfache Knöpfen veränderbar sein. Ein einfaches Beispiel: Soll erforscht werden, wie eine Wespe reagiert, wenn es bald regnet, könnte man auf diese Weise einfach über einen Knopf "Luftfeuchtigkeit erhöhen" die tatsächliche Luftfeuchtigkeit innerhalb der "Umweltbox", z.B. über das maschinelle Auslösen eines Wasserzerstäubers (umgangssprachlich auch Blumendusche genannt), erhöhen. Auf diese Weise müssten Umweltbedingungen nicht mehr "händisch" durch Betätigen und genau Positionieren äußerer Werkzeuge - wie z.B. Wasserzerstäuber, Fön, Kühlakku - modifiziert werden, sondern wäre interaktiv durch einen einfachen Knopfdruck de\* Nutzer\*in variierbar.
+
+Aber auch Schwierigkeiten konnte durch die kleine Gruppe schnell ausgemacht werden: Wie könnte mit handelsüblichen Mitteln die Luftfeuchtigkeit _herabgesetzt_ werden. 
+
+### Entwicklung weiterer, neuer Simulationen
+
+Auch die Entwicklung weiterer Tiersimulation wäre eine gute Möglichkeit auf interaktive Art und Weise Menschen nicht nur für spezielle Tierarten zu sensibilisieren, sondern auch zu begeistern. Neben anderen Stechinsekten kommen hier auch andere für das Ökosystem wichtige Tierarten, bzw. Insektenart in Betracht. Exemplarisch möchte ich eine weitere Tierart in den Blick nehmen: 
+
+Ein weiterer Kandidat für eine mögliche Tiersimulation, der häufig missverstanden, aber unentbehrlich für unser von Waldstücken dominierten Umwelt ist, wären Ameisen. Dieses Mitglied der Familie der Insekten stört häufig nicht nur bei Picknicks, sondern kann auch größere Schäde in einem Haus anrichten. Dabei werden die Tiere häufig durch unsachgemäß gelagerte Lebensmittel angelockt.
+In diesem Fall würde daher auch die Fragestellung weit verschoben. Es ginge nicht mehr um eine Stechprävention (oder nicht nur), sondern vielmehr darum, unter welchen Bedingungen Ameisen angelockt werden.
+
+
+Diese einfachen Entwicklungsperspektiven zeigen bereits das enorme Potenzial von Tiersimulation, das es in Zukunft zu entdecken und zu erforschen gilt.
