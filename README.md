@@ -4,7 +4,7 @@ description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt
 
 # AnimalSim - Eine Tiersimulation realisiert mit Microcontroller und 3D-Druck
 
-## Übersicht
+## Einleitung
 
 Ziel des hier vorgestellten Projekts ist die Entwicklung eines Prototypen für einen interaktiven Verhaltenstrainer. 
 Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe in Form eines voll funktionsfähigen Exponats simuliert worden. 
