@@ -18,6 +18,10 @@ Das im Unterricht entstandene Exponat, die von den Schüler\*innen produzierte D
 
 In diesem Artikel sind die Konzeption der Reihe, verwendete digitale Tools, didaktische Hinweise sowie Arbeitsmaterialien veröffentlicht mit dem Ziel andere Lehrkräfte, Betreuende von Makers Spaces, Pädagog\*innen und Multiplikator\*innen zu motivieren, das Unterrichtsvorhaben ebenfalls umzusetzen, mit uns in einen Austausch zu treten und weitere AnimalSims zu entwickeln.
 
+Das Produkt ist nicht nur in Kollaboration von drei Kolleg\*innen und drei Differenzierungskursen (insgesamt 59 Schüler\*innen), sondern in Kooperation mit drei externen Partnern: dem zdi-Zentrum Köln, der Stadtbibliothek Köln und der Rheinischen FH Köln. Deswegen liegt ein weiterer Schwerpunkt des Artikels darin zu zeigen, wie eine solch komplexe Vernetzung organisiert werden kann.
+
+Fragen und Anregungen können Sie an cc.education@posteo.de richten. 
+
 ## Reihenplanung
 
 Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört. Die Entwicklung weiterer AnimalSims
