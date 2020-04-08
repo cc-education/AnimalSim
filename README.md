@@ -45,18 +45,7 @@ Drei Schüler\*innen hospitierten im „Sensorik-Workshop“, um wichtige Daten 
 
 In einem letzten Schritt wurde das Exponat entworfen und gebaut, die Ergebnisse im Blog überarbeitet und ein Erklärvideo produziert.
 
-
-## Reihenplanung
-
-Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört. Die Entwicklung weiterer AnimalSims
-
-Das die Fächer Informatik, Biologie und Technik verbindende Projekt entstand in drei Lerngruppen des Differenzierungsbereichs, wobei die einzelnen Arbeitsbereiche aufgeteilt wurden: Auf Basis der biologischen Daten des NW-Diff-Kurses der Jahrgangsstufe 9 von Andrea Heiseler entwickelte der 8er Informatik-Diff-Kurs der Klasse 8 von Jacqueline Anthes die sensorzentrierte Programmierung mit einer Sensebox - einer Art mikrocontrollerbasierter Station zur Erhebung von Umweltdaten. Abgerundet wurde das Projekt durch ein unter der Leitung von Florian Haase 3D-gedrucktes Modell einer Wespe, das von den Schüler\*innen des INF-Diff-Kurses der Jahrgangsstufe 9 entwickelt wurde.
-
-Für den 3D-Druck kooperierten wir mit dem Makers Space der Stadtbibliothek Köln, das Schülerinnen-Labor der Rheinische FH unterstütze uns im Bereich Sensorik und das zdi-Zentrum Köln half bei der Vernetzung. Auf diese Weise erhielen Schüerinnen und Lehrkräfte nicht nur Tipps und Tricks durch fachkundige Studierende und Professoren, sondern auch \(IT-\)Infrastruktur der Rheinischen Fachhochschule. Die gesamte Dokumentation wurde dabei von den Schüler\*innen in Form eines Blogs veröffentlicht. Dieser ist unter folgendem Link zu finden: [https://jacanthes.wixsite.com/tiersimulationen](https://jacanthes.wixsite.com/tiersimulationen). Ein sechsminütiges, selbst produziertes Erklärvideo verschafft Interessierten einen schnellen Überblick über die Ergebnisse und einen Einblick in die Projektarbeit.
-
-Koordination eines fächerverbindenden, jahrgangsstufenübergreifenden Projektes
-
-An dem Projekt sind insgesamt drei sogenannte "Differenzierungs-Kurse" der Jahrgangsstufen 8 und 9 beteiligt. Der Schaffensprozess vollzog sich in drei wesentlichen aufeinander aufbauenden Stufen wie folgende Grafik illustriert: 
+Die drei wesentlichen aufeinander aufbauenden Stufen der Projektarbeit wird anhand folgender Grafik illustriert: 
 
 ![](.gitbook/assets/0.png)
 
