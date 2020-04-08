@@ -1,18 +1,26 @@
 ---
-description: Tiersimulation mit Microcontroller und 3D-Druck
+description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt von Jacqueline Anthes, Florian Haase & Andrea Heiseler
 ---
 
-# AnimalSim
+# AnimalSim - Eine Tiersimulation realisiert mit Microcontroller und 3D-Druck
 
-## Übersicht 1
+## Übersicht
 
-Im Zentrum der in Kollaboration der Autorinnen entwickelten und durchgeführten Unterrichtsidee "Tiersimulation mit Mikrocontroller und 3D-Druck" steht das Exponat einer Wespensimulation und eine dazugehörige selbst produzierte Projektwebseite. Ziel des Projekts war die Entwicklung eines Prototypen für eine Art Verhaltenstrainer im öffentlichen Raum, durch den Menschen das Verhalten einer Wespe besser verstehen können. In direkter Interaktion mit dem Verhaltenssimulator wird deutlich, wann eine Wespe Stress hat und eventuell zusticht. Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört.
+Ziel des hier vorgestellten Projekts ist die Entwicklung des Prototypen für einen interaktiven Verhaltenstrainer. Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe simuliert worden. Im Zentrum der Simulation steht dabei das Stressverhalten von Wespen, insbesondere die Wahrscheinlichkeit eines Wespen-Stichs bei erhöhtem Stress des Insekts. In direkter Interaktion mit der Simulation können Menschen das Verhalten der Wespe besser verstehen lernen, "wespen-freundliches" Verhalten erlernen und in der Folge idealerweise weniger gestochen werden.
+
+Der in drei MINT-Differenzierungskursen der Jahrgangsstufen 8 und 9 entwickelte Verhaltenstrainer namens "AnimalSim" (engl. Animal Simulation/ Tiersimulation) ist für den öffentlichen Raum konzipiert. Übergeordnete Ziel des Unterrichtsvorhabens ist die handlungsorientierte, projektzentrierte Erarbeitung gesellschaftlich relevanter Themen wie Erhöhung von Lebensqualität durch Prävention vor gefährlichen Insektenstichen (z.B. bei Allergien) bei gleichzeitigem Schutz bedrohter Tierarten. Das entstandene Produkt ist mit Hilfe zahlreicher digitaler Werkzeuge realisiert worden und eignet sich besonders zur digitalen und informatorischen Bildung.
+
+Das im Unterricht entstandene Exponat sowie die Dokumentation aller Arbeitsschritte sowie ein Erklärvideo sind auf der eigens für dieses Projekt produzierten Webseite unter der URL https://jacanthes.wixsite.com/tiersimulationen zu finden.
+
+In diesem Artikel sind die Konzeption der Reihe, verwendete digitale Tools, didaktische Hinweise sowie Arbeitsmaterialien veröffentlicht mit dem Ziel andere Lehrkräfte, Betreuende von Makers Spaces, Pädagog\*innen und Multiplikator\*innen zu motivieren, das Unterrichtsvorhaben ebenfalls umzusetzen, mit uns in einen Austausch zu treten und weitere AnimalSims zu entwickeln.
+
+## Reihenplanung
+
+Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört. Die Entwicklung weiterer AnimalSims
 
 Das die Fächer Informatik, Biologie und Technik verbindende Projekt entstand in drei Lerngruppen des Differenzierungsbereichs, wobei die einzelnen Arbeitsbereiche aufgeteilt wurden: Auf Basis der biologischen Daten des NW-Diff-Kurses der Jahrgangsstufe 9 von Andrea Heiseler entwickelte der 8er Informatik-Diff-Kurs der Klasse 8 von Jacqueline Anthes die sensorzentrierte Programmierung mit einer Sensebox - einer Art mikrocontrollerbasierter Station zur Erhebung von Umweltdaten. Abgerundet wurde das Projekt durch ein unter der Leitung von Florian Haase 3D-gedrucktes Modell einer Wespe, das von den Schüler\*innen des INF-Diff-Kurses der Jahrgangsstufe 9 entwickelt wurde.
 
 Für den 3D-Druck kooperierten wir mit dem Makers Space der Stadtbibliothek Köln, das Schülerinnen-Labor der Rheinische FH unterstütze uns im Bereich Sensorik und das zdi-Zentrum Köln half bei der Vernetzung. Auf diese Weise erhielen Schüerinnen und Lehrkräfte nicht nur Tipps und Tricks durch fachkundige Studierende und Professoren, sondern auch \(IT-\)Infrastruktur der Rheinischen Fachhochschule. Die gesamte Dokumentation wurde dabei von den Schüler\*innen in Form eines Blogs veröffentlicht. Dieser ist unter folgendem Link zu finden: [https://jacanthes.wixsite.com/tiersimulationen](https://jacanthes.wixsite.com/tiersimulationen). Ein sechsminütiges, selbst produziertes Erklärvideo verschafft Interessierten einen schnellen Überblick über die Ergebnisse und einen Einblick in die Projektarbeit.
-
-## Reihenplanung
 
 Koordination eines fächerverbindenden, jahrgangsstufenübergreifenden Projektes
 
