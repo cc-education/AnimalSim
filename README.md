@@ -22,6 +22,30 @@ Das Produkt ist nicht nur in Kollaboration von drei Kolleg\*innen und drei Diffe
 
 Fragen und Anregungen können Sie an cc.education@posteo.de richten. 
 
+## Organisation der fächerverbindenden Arbeit
+
+Das die Fächer Informatik, Biologie und Technik verbindende Projekt entstand in drei Lerngruppen des Differenzierungsbereichs, wobei die einzelnen Arbeitsbereiche aufgeteilt wurden.
+Einzelheiten zu der Durchführung der einzelnen Reihen finden Sie unter:
+
+In einer Projektarbeit als Ersatz für eine Klassenarbeit sammelte der NW-Kurs unter der Leitung von Andrea Heiseler für eine Simulation relevante Daten mit Hilfe von Rechercheaufträgen. Aus den abgegebenen Mappen wurden nach Korrektur und Bewertung durch die Fachlehrerin später Blog-Artikel generiert, die die Grundlage für die Arbeit der Informatik-Kurse wurden.
+Hier einige Beispiele für Fragestellungen, die die Schüler\*innen eigenständig erörtert haben:
+-	(Gattungs-)Merkmale von Wespen
+-	Warum Wespen wichtig sind
+-	Der Wespenstich
+-	Wie reagieren Wespen auf Temperaturen?
+-	Wie reagieren Wespen auf Veränderung der Luftfeuchtigkeit?
+-	Wie reagieren Wespen auf Gase und Duftstoffe?
+-	Etc.
+
+Parallel machten sich die Schüler\*innen der Differenzierungskurse Informatik mit dem Blog-Tool vertraut, um als ausgebildete Expert\*innen den NW-Schüler\*innen bei der Digitalisierung ihrer Ergebnisse zu helfen.
+Sobald die Ergebnisse in Form von Blog-Artikeln vorlagen, entwickelte der 8er Informatik-Diff-Kurs der Klasse 8 von Jacqueline Anthes die sensorzentrierte Programmierung mit einer Sensebox - einer Art mikrocontrollerbasierter Station zur Erhebung von Umweltdaten. Als Kooperationspartner stand das Schüler\*innen-Labor der Rheinischen FH unterstützend zur Seite und stellte seine Räumlichkeiten sowie studentische Hilfskräfte für einen ganztägigen „Sensorik-Workshop“ zur Verfügung. 
+
+Zeitgleich zu der Programmierung der Sensorik erlernte der Informatik-Kurs der Jahrgangsstufe 9 unter der Leitung von Florian Haase die Modellierung von Wespentorsos mit Hilfe des Programms TinkerCAD. 
+Drei Schüler\*innen hospitierten im „Sensorik-Workshop“, um wichtige Daten (verbaute Sensoren, optimale Lage der Sensoren, etc.) in ihren Kurs zu tragen, damit sie im 3D-Modell berücksichtigt werden können. Gedruckt wurde das fertige Modell im Makers Space der Stadtbibliothek Köln.
+
+In einem letzten Schritt wurde das Exponat entworfen und gebaut, die Ergebnisse im Blog überarbeitet und ein Erklärvideo produziert.
+
+
 ## Reihenplanung
 
 Die Wahl des Insekt fiel deshalb auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schülerinnen gehört. Die Entwicklung weiterer AnimalSims
