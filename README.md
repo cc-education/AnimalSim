@@ -7,13 +7,14 @@ description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt
 ## Übersicht
 
 Ziel des hier vorgestellten Projekts ist die Entwicklung eines Prototypen für einen interaktiven Verhaltenstrainer. 
-Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe simuliert worden. Im Zentrum der Simulation steht dabei das Stressverhalten von Wespen, insbesondere die Wahrscheinlichkeit eines Wespen-Stichs bei erhöhtem Stress des Insekts. In direkter Interaktion mit der Simulation können Menschen für das Verhalten und Stressempfinden von Wespen sensibilisiert werden, "wespen-freundliches" Verhalten erlernen und in der Folge idealerweise weniger gestochen werden.
+Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe in Form eines voll funktionsfähigen Exponats simuliert worden. 
+Im Zentrum der Simulation steht dabei das Stressverhalten von Wespen, insbesondere die Wahrscheinlichkeit eines Wespen-Stichs bei erhöhtem Stress des Insekts: In direkter Interaktion mit der Simulation können Menschen für das Verhalten und Stressempfinden von Wespen sensibilisiert werden, "wespen-freundliches" Verhalten erlernen und in der Folge idealerweise weniger gestochen werden.
 
 Der in drei MINT-Differenzierungskursen der Jahrgangsstufen 8 und 9 entwickelte Verhaltenstrainer namens "AnimalSim" (engl. Animal Simulation/ Tiersimulation) ist für den öffentlichen Raum konzipiert. 
 Übergeordnete Ziel des Unterrichtsvorhabens ist die handlungsorientierte, projektzentrierte Erarbeitung gesellschaftlich relevanter Themen wie Erhöhung von Lebensqualität in Parkflächen und Wäldern, Prävention vor gefährlichen Insektenstichen (z.B. bei Allergien) bei gleichzeitigem Schutz bedrohter Tierarten. 
 Das entstandene Produkt ist mit Hilfe zahlreicher digitaler Werkzeuge realisiert worden und eignet sich besonders zur digitalen und informatorischen Bildung im naturwissenschaftlichen Unterricht.
 
-Das im Unterricht entstandene Exponat, die von den Schüler\*innen produzierte Dokumentation aller Arbeitsschritte sowie ein Erklärvideo sind auf der eigens für dieses Projekt eingerichteten Webseite unter der URL https://jacanthes.wixsite.com/tiersimulationen zu finden.
+Das im Unterricht entstandene Exponat, die von den Schüler\*innen produzierte Dokumentation aller Arbeitsschritte, Rechercheergebnisse, Programmteile, Modellierungen sowie ein Erklärvideo sind auf der eigens für dieses Projekt eingerichteten Webseite unter der URL https://jacanthes.wixsite.com/tiersimulationen zu finden.
 
 In diesem Artikel sind die Konzeption der Reihe, verwendete digitale Tools, didaktische Hinweise sowie Arbeitsmaterialien veröffentlicht mit dem Ziel andere Lehrkräfte, Betreuende von Makers Spaces, Pädagog\*innen und Multiplikator\*innen zu motivieren, das Unterrichtsvorhaben ebenfalls umzusetzen, mit uns in einen Austausch zu treten und weitere AnimalSims zu entwickeln.
 
