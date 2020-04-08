@@ -6,7 +6,8 @@ description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt
 
 ## Übersicht
 
-Ziel des hier vorgestellten Projekts ist die Entwicklung des Prototypen für einen interaktiven Verhaltenstrainer. Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe simuliert worden. Im Zentrum der Simulation steht dabei das Stressverhalten von Wespen, insbesondere die Wahrscheinlichkeit eines Wespen-Stichs bei erhöhtem Stress des Insekts. In direkter Interaktion mit der Simulation können Menschen für das Verhalten und Stressempfinden von Wespen sensibilisiert werden, "wespen-freundliches" Verhalten erlernen und in der Folge idealerweise weniger gestochen werden.
+Ziel des hier vorgestellten Projekts ist die Entwicklung eines Prototypen für einen interaktiven Verhaltenstrainer. 
+Auf der Basis biologischer Daten ist mit Hilfe eines Microcontrollers, zugehöriger Sensoren und Aktoren sowie 3D-Druck das Verhalten einer Wespe simuliert worden. Im Zentrum der Simulation steht dabei das Stressverhalten von Wespen, insbesondere die Wahrscheinlichkeit eines Wespen-Stichs bei erhöhtem Stress des Insekts. In direkter Interaktion mit der Simulation können Menschen für das Verhalten und Stressempfinden von Wespen sensibilisiert werden, "wespen-freundliches" Verhalten erlernen und in der Folge idealerweise weniger gestochen werden.
 
 Der in drei MINT-Differenzierungskursen der Jahrgangsstufen 8 und 9 entwickelte Verhaltenstrainer namens "AnimalSim" (engl. Animal Simulation/ Tiersimulation) ist für den öffentlichen Raum konzipiert. 
 Übergeordnete Ziel des Unterrichtsvorhabens ist die handlungsorientierte, projektzentrierte Erarbeitung gesellschaftlich relevanter Themen wie Erhöhung von Lebensqualität in Parkflächen und Wäldern, Prävention vor gefährlichen Insektenstichen (z.B. bei Allergien) bei gleichzeitigem Schutz bedrohter Tierarten. 
