@@ -22,7 +22,24 @@ Das Produkt ist nicht nur in Kollaboration von drei Kolleg\*innen und drei Diffe
 
 Fragen und Anregungen können Sie an cc.education@posteo.de richten. 
 
-## Organisation der fächerverbindenden Arbeit
+## Entwicklung des Konzepts und globale planerische Aspekte
+
+Eine erste grobe Unterrichtsskizze entstand anlässlich der Teilnahme an dem von der NRW.Bank ausgeschriebenen Wettbewerb „DIGIYOU- Digitalisierung deine Zukunft“ Darüber hinaus bestand der schulinterne Wunsch, ein Leuchtturmprojekt für die Verbindung der Fächer Biologie und Informatik zu schaffen. Dieser rührte vor allem aus den neuen Stundentafeln im Zuge der Umstellung auf G9, dem Ruf nach informatorischer Bildung als Querschnittskompetenz, daraus resultierend die Frage nach Kooperationsmöglichkeiten in den Fächern der MINT-Gruppe und der Verpflichtung zum kommenden Schuljahr den Medienkompetenzrahmen zu implementieren.
+
+Die Idee zu einem Tiersimulationsprojekt wurde durch die Abiturprüfung in Biologie im Jahr 2019 gefestigt: In der schriftlichen Abiturprüfung war die Reaktion von Quallen auf Klimaveränderungen Thema. Zudem haben Tiersimulationen in der Biologie in den vergangenen Jahren an Relevanz gewonnen. – Ein Thema, das sich sehr gut für die Kollaboration der Fächer Biologie und Informatik eignen. 
+Im Sinne des Spiralcurriculums wurde das Vorhaben in der Mittelstufe angesiedelt. Darüber hinaus haben wir uns für die Differenzierungskurse aufgrund der curricularen Freiheiten und aus organisatorischen Gründen (Kurse zum Teil in gleicher Blockung) entschieden.
+
+Im vergangenen Schuljahr haben Informatik-Schüler\*innen der Jahrgangsstufe 9 erste Tiersimulationen mit den in der Schule vorhandenen Raspberry Pis programmiert. Die Wahl der Tiere stand den Schüler\*innen offen. 
+Aus diesen ersten Versuchen ließ sich nicht nur eine erste Unterrichtsskizze entwickeln, die ins Finale des Wettbewerbs gewählt und mit 500€ Spende zur Realisierung des Vorhabens prämiert wurde, es konnten darüber hinaus wichtige Erkenntnisse für diese Arbeit abgeleitet werden:
+1.	Ein derart komplexes Projekt muss fächerverbindend durchgeführt werden, damit es die nötige naturwissenschaftliche Tiefe erlangt.
+2.	Für den fächerverbindenden Austausch bedarf es einer geeigneten und motivierenden digitalen Plattform.
+3.	Gemeinsame verbindende Unterrichtsziele müssen definiert und trotz Verteilung der unterschiedlichen Aufgaben gemeinsam verfolgt werden.
+4.	Der Microcontroller Raspberry Pi ist zwar in ausreichender Stückzahl vorhanden, verfügt aber nur über digitale Anschlüsse für Sensoren, sodass Sensordaten zu ungenau sind. Es bedarf eines Systems mit hoher Genauigkeit im relevanten Messbereich. Zudem muss das System aufgrund der Komplexität der Aufgabenstellung einfach zu programmieren sein- idealerweise mit Hilfe einer Blockly-Programmierung.
+5.	Aufgrund von Umbau-Maßnahmen im Schulgebäude leidet der naturwissenschaftliche Bereich gerade unter erheblichem Platzmangel und Einschränkungen in der Ausstattung. Dies motivierte uns geeignete außerschulische Lernorte und -partner zu finden und deren Infrastruktur, Expertise und Vernetzung zu nutzen.
+6.	Den Schüler\*innen die Wahl des Tieres zu überlassen, ist zwar motivierend, birgt aber auch enorme Schwierigkeiten in der angemessenen Betreuung und Beratung. Außerdem erschwert es die gemeinsame Diskussion und Reflexion im Plenum und den Austausch der Schüler\*innen untereinander. Deswegen haben wir uns auf nur ein Tier geeinigt. Das Auswahlkriterium war dabei vor allem der Bezug zu der Lebenswelt der Schüler\*innen. Die Wahl des Insekt fiel deshalb (auch) auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schüler\*innen gehört. In Hinblick auf weitere Projekte eignet sie sich gut für den Vergleich mit anderen Stechinsekten.
+
+
+### Organisation der fächerverbindenden Arbeit
 
 Das die Fächer Informatik, Biologie und Technik verbindende Projekt entstand in drei Lerngruppen des Differenzierungsbereichs, wobei die einzelnen Arbeitsbereiche aufgeteilt wurden.
 Einzelheiten zu der Durchführung der einzelnen Reihen finden Sie unter:
@@ -49,7 +66,9 @@ Die drei wesentlichen aufeinander aufbauenden Stufen der Projektarbeit wird anha
 
 ![](.gitbook/assets/0.png)
 
-#### verbindende Unterrichtsziele
+### verbindende Unterrichtsziele
+
+Die unten stehenden Ziele wurden für alle drei Lerngruppen verbindlich definiert und implementieren die Leitlinien guten Unterrichts - Problemorientierung, Orientierung an einem komplexen Kompetenzbegriff und Selbstbestimmung:
 
 * Förderung der Umweltbildung
 * Sensibilisierung für die Auswirkung von veränderten Umweltbedingung auf Lebewesen unserer Lebenswelt
@@ -63,11 +82,13 @@ Die eigens für dieses Projekt programmierte Webseite mit eingebetteten Blog bil
 
 Webseite und Blog wurden mit Hilfe des cloudbasierten CMS wix.com erstellt und administriert. Alle Schüler\*innen hatten ihren eigenen Zugang und Rechte als Blog-Autor\*in. Die Webseite, in die der Blog-Teil eingebettet ist, wurde von uns Lehrkräften in Hinblick auf Inhalte und Struktur entwickelt.
 
+Voraussetzung für die Verteilung der Rollen als autonome Blog-Autor\*innen waren persönliche E-Mail-Adressen, die den Schüler\*innen im Rahmen von Office365-Accounts zur Verfügung standen.
+
 #### Förderung von Medienkompetenzen im Sinne des Medienkompetenzrahmens NRW
 
 Alle Unterrichtsreihen eignet sich insbesondere durch die Blog-Funktion der Projekt-Webseite neben der Vermittlung relevanter informatorischer und biologischer Inhalte gezielt für die Medienkompetenzförderung im Sinne des [Medienkompetenzrahmens NRW](https://medienkompetenzrahmen.nrw/medienkompetenzrahmen-nrw/): Alle sechs [Kompetenzbereiche](https://medienkompetenzrahmen.nrw/fileadmin/pdf/LVR_ZMB_MKR_Rahmen_A4_2019_06_Final.pdf) werden in hohem Maße Bereichen gestärkt.
 
-In der den Übersichtsrastern der jeweiligen Makro-Planung sind die geförderten Medienkompetenzen aufgeführt.
+In der Übersicht über die Reihenplanung sind die geförderten Medienkompetenzen aufgeführt.
 
 ### NW-Kurs
 
