@@ -66,7 +66,7 @@ Die drei wesentlichen aufeinander aufbauenden Stufen der Projektarbeit wird anha
 
 ![](.gitbook/assets/0.png)
 
-### verbindende Unterrichtsziele
+### Verbindende Unterrichtsziele
 
 Die unten stehenden Ziele wurden für alle drei Lerngruppen verbindlich definiert und implementieren die Leitlinien guten Unterrichts - Problemorientierung, Orientierung an einem komplexen Kompetenzbegriff und Selbstbestimmung:
 
@@ -90,13 +90,17 @@ Alle Unterrichtsreihen eignet sich insbesondere durch die Blog-Funktion der Proj
 
 In der Übersicht über die Reihenplanung sind die geförderten Medienkompetenzen aufgeführt.
 
+Neben Tools, die den Austausch und die Kommunikation und Präsentation fördern (v. a. Blog-Tool, Erklärvideo), werden in den Informatik-Kursen fachspezifische Programme angewendet, die im Kapitel xxx erläutert werden.
+
+## Unterrichtsreihen in den einzelnen Kursen
+
 ### NW-Kurs
 
-### Diff-IT \(8\)
+### Diff-IT \(8\): Simulation von Verhaltensmustern von Wespen mittels Sensoren und Aktoren
 
-**Die Simulation der Sensorik einer Wespe wurde von dem Differenzierungskurs Informatik der Jahrgangsstufe 8 modelliert und mit Hilfe der SenseBox - einer Arduino-kompatiblen MCU - sowie zugehöriger, speziell für die Messung von Umweltdaten entwickelten Sensoren implementiert.**
+Die Simulation der Sensorik einer Wespe wurde von dem Differenzierungskurs Informatik der Jahrgangsstufe 8 modelliert und mit Hilfe der SenseBox - einer Arduino-kompatiblen MCU - sowie zugehöriger, speziell für die Messung von Umweltdaten entwickelten Sensoren implementiert.
 
-**Die insgesamt 20 Schüler\*innen verfügten über Programmierkenntnisse auf Einsteiger\*innen-Niveau.** **Ihre Arbeitsschritte und Ergebnisse haben sie schriftlich in Form von Blog-Artikeln zusammengefasst, durch Screenshots und Bilder illustriert und kritisch reflektiert. Darüber hinaus können die \(Teil-\) Ergebnisse der Schüler\*innen für die Wiederverwendung aus dem Blog herunter geladen werden.**
+Die insgesamt 20 Schüler\*innen verfügten über Programmierkenntnisse auf Einsteiger\*innen-Niveau. Ihre Arbeitsschritte und Ergebnisse haben sie schriftlich in Form von Blog-Artikeln zusammengefasst, durch Screenshots und Bilder illustriert und kritisch reflektiert. Darüber hinaus können die \(Teil-\) Ergebnisse der Schüler\*innen für die Wiederverwendung aus dem Blog herunter geladen werden.
 
 #### Ziele der Unterrichtsreihe
 
@@ -119,13 +123,15 @@ Alle von den Schüler\*innen dieses Kurses verfassten Artikel wurden im Blog mit
 
 **SenseBox**
 
-Für die Realisierung der Simulation einer Wespe mittels eines Microcontrollers haben wir uns für die SenseBox entschieden.
+Für die Realisierung der Simulation einer Wespe mittels eines Microcontrollers haben wir uns für die SenseBox entschieden. Die SenseBox wurde von einem Forschungsteam am [Institut für Geoinformatik](https://www.uni-muenster.de/Geoinformatics/en/) der Uni Münster zur "Datenerhebung mit selbstgebauten Sensorstationen" entwickelt. Basierend auf Arduino Mikrokontrollern, Sensoren und Zubehör ist ein sogenanntes _Citizen Science Toolkit_ entstanden. Auf der Hersteller wird das Toolkit folgendermaßen zusammengefasst:
 
 Die senseBox:edu ist ein Elektronikbausatz für Schulen, Universitäten und Bildungseinrichtungen, bei dem das Experimentieren und Programmieren unter Einsatz von Sensoren im Vordergrund steht. Neben einer programmierbaren Open-Source Mikrocontrollereinheit \(MCU\), die Arduino kompatibel ist, sind Sensoren, Bauteile zur Übertragung von Daten ins Internet und weiteres Zubehör im Lieferumfang enthalten. Mit der senseBox:edu können Grundlagen der Informatik an realen Problemstellungen aus dem gesamten MINT-Bereich erlernt sowie eigene Messgeräte für verschiedene Zwecke mit wenig Aufwand gebaut und programmiert werden. Sensoren für die Messung von verschiedenen Umweltphänomenen wie Temperatur, Luftfeuchtigkeit, Luftdruck, Beleuchtungsstärke, UV-Strahlung, Lautstärke, Distanzen \(per Ultraschallsensor\) sowie Neigung und Ausrichtung ermöglichen ein kreatives Arbeiten an einer Vielzahl von Fragestellungen.
 
-Insgesamt wurden folgende Hardware-Komponenten angeschafft und verwendet:
+Erstes zentrales Argument für die Anschaffung des Systems sind die sechs analogen I/Os und die damit einhergehende Messgenauigkeit, die für die Simulation der natürlichen Sensoren einer Wespe nötig sind.
 
-* Fünf SenseBox-MCUs für das Programmieren in Teams \(4 Schüler\*innen pro Gruppe\)
+Insgesamt wurden folgende Hardware-Komponenten für die Gruppenarbeit in fünf Teams \(4 Schüler\*innen pro Gruppe\)angeschafft und verwendet:
+
+* Fünf SenseBox-MCUs
 * Fünf OLED-Displays
 * Luftdruck-Sensor
 * Bodenfeuchtigkeitssensor
@@ -135,6 +141,10 @@ Insgesamt wurden folgende Hardware-Komponenten angeschafft und verwendet:
 * RGB-LEDs
 * Breadboards
 * Jumper Kabel
+
+Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu intuitiv bedienbare _Arduino Blockly_-[Programmieroberfläche](https://blockly.sensebox.de/), die stabil und zuverlässig in allen Browsern als Web-App läuft. Selbst Schüler_innen ohne Vorkenntnisse können so problemlos in die Programmierung von Sensoren sowie einiger Aktoren \(LEDs, Display, Audio und Stepper- bzw. Servo-Motor\) einsteigen. Ein deutschsprachiges Tutorial in Form eines GitBooks begleitet die Schüler_innen sogar im eigenständigen Arbeiten. Der Quellcode wird gut sichtbar im rechten Fensterbereich angezeigt, sodass der Quellcode bereits während der Programmierung mit Blöcken in den Unterricht einbezogen werden kann. Die so programmierten "Sketche" können online kompiliert und leicht und unkompliziert per USB auf die SenseBox als .ino-Dateien übertragen werden. Auch das Speichern von Blöcken im XML-Format ist möglich. 
+
+![](.gitbook/assets/1.jpeg)
 
 #### Struktur der Unterrichtsreihe
 
@@ -175,44 +185,6 @@ Block 3: Zusammenbau & Bloggen - Zeit: 4 Unterrichtsstunden
 
 * ZUsammebau größtenteils durch Planung der Schüler\*innen
 
-## Kooperationspartner
-
-### schulinterne Kooperation
-
-Neben der projektinternen Vernetzung von Frau Andrea Heiseler, Jaqueline Anthes und Florian Haase, gab es noch schulinterne Kooperationen mit Kolleg\*innen, die nicht direkt am Projekt beteiligt waren. Dazu gehören insbesondere die Kunstfachlehrerinnen Marleen Götza und Dr. Anke Heyen. Marleen Götza zeichnete dabei die auf unserem Blog publizierte Zeichnung einer "Robo-Wespe", die sinnbildlich für unser gesamtes Projekt steht. Die Schattierung und grobe, farbliche Gestaltung der Flächen wiederum, wurden von Dr. Anke Heyen vorgenommen.
-
-### schulexterne Kooperation
-
-Rheinische Fachhochschule
-
-Stadtbibliothek Köln
-
-## Mikroplanung Einzelne Kurse
-
-### Simulation von Verhaltensmustern von Wespen mittels Sensoren und Aktoren
-
-Für die Realisierung der Simulation einer Wespe mittels eines Microcontrollers haben wir uns für die SenseBox entschieden. Die SenseBox wurde von einem Forschungsteam am [Institut für Geoinformatik](https://www.uni-muenster.de/Geoinformatics/en/) der Uni Münster zur "Datenerhebung mit selbstgebauten Sensorstationen" entwickelt. Basierend auf Arduino Mikrokontrollern, Sensoren und Zubehör ist ein sogenanntes _Citizen Science Toolkit_ entstanden. Auf der Hersteller wird das Toolkit folgendermaßen zusammengefasst:
-
-Die senseBox:edu ist ein Elektronikbausatz für Schulen, Universitäten und Bildungseinrichtungen, bei dem das Experimentieren und Programmieren unter Einsatz von Sensoren im Vordergrund steht. Neben einer programmierbaren Open-Source Mikrocontrollereinheit \(MCU\), die Arduino kompatibel ist, sind Sensoren, Bauteile zur Übertragung von Daten ins Internet und weiteres Zubehör im Lieferumfang enthalten. Mit der senseBox:edu können Grundlagen der Informatik an realen Problemstellungen aus dem gesamten MINT-Bereich erlernt sowie eigene Messgeräte für verschiedene Zwecke mit wenig Aufwand gebaut und programmiert werden. Sensoren für die Messung von verschiedenen Umweltphänomenen wie Temperatur, Luftfeuchtigkeit, Luftdruck, Beleuchtungsstärke, UV-Strahlung, Lautstärke, Distanzen \(per Ultraschallsensor\) sowie Neigung und Ausrichtung ermöglichen ein kreatives Arbeiten an einer Vielzahl von Fragestellungen.
-
-Erstes zentrales Argument für die Anschaffung des Systems sind die sechs analogen I/Os und die damit einhergehende Messgenauigkeit, die für die Simulation der natürlichen Sensoren einer Wespe nötig sind.
-
-Insgesamt wurden folgende Hardware-Komponenten für die Gruppenarbeit in fünf Teams \(4 Schüler\*innen pro Gruppe\)angeschafft und verwendet:
-
-* Fünf SenseBox-MCUs
-* Fünf OLED-Displays
-* Luftdruck-Sensor
-* Bodenfeuchtigkeitssensor
-* Temperatur- und Luftfeuchtigkeitssensor
-* Feinstaubsensor
-* UV-/ Helligkeitssensor
-* RGB-LEDs
-* Breadboards
-* Jumper Kabel
-
-Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu intuitiv bedienbare _Arduino Blockly_-[Programmieroberfläche](https://blockly.sensebox.de/), die stabil und zuverlässig in allen Browsern als Web-App läuft. Selbst Schüler_innen ohne Vorkenntnisse können so problemlos in die Programmierung von Sensoren sowie einiger Aktoren \(LEDs, Display, Audio und Stepper- bzw. Servo-Motor\) einsteigen. Ein deutschsprachiges Tutorial in Form eines GitBooks begleitet die Schüler_innen sogar im eigenständigen Arbeiten. Der Quellcode wird gut sichtbar im rechten Fensterbereich angezeigt, sodass der Quellcode bereits während der Programmierung mit Blöcken in den Unterricht einbezogen werden kann. Die so programmierten "Sketche" können online kompiliert und leicht und unkompliziert per USB auf die SenseBox als .ino-Dateien übertragen werden. Auch das Speichern von Blöcken im XML-Format ist möglich. 
-
-![](.gitbook/assets/1.jpeg)
 
 ### 3D-Modellierung & 3D-Druck
 
