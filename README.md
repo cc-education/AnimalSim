@@ -2,7 +2,8 @@
 description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt von Jacqueline Anthes, Florian Haase & Andrea Heiseler
 ---
 
-# AnimalSim - Eine Tiersimulation realisiert mit Microcontroller und 3D-Druck
+# AnimalSim
+# Eine Tiersimulation realisiert mit Microcontroller und 3D-Druck
 
 ## Einleitung
 
@@ -78,9 +79,11 @@ Die unten stehenden Ziele wurden für alle drei Lerngruppen verbindlich definier
 
 #### Austausch und Kollaboration durch den Einsatz digitaler Medien
 
-Die eigens für dieses Projekt programmierte Webseite mit eingebetteten Blog bildete eine schülerorientierte, leicht zu bedienende Plattform zum gemeinsamen kollaborativen Arbeiten über Fächer und Jahrgangsstufen hinweg.
+Die eigens für dieses Projekt programmierte Webseite mit eingebettetem Blog bildete eine schülerorientierte, leicht zu bedienende Plattform zum gemeinsamen kollaborativen Arbeiten über Fächer und Jahrgangsstufen hinweg.
 
-Webseite und Blog wurden mit Hilfe des cloudbasierten CMS wix.com erstellt und administriert. Alle Schüler\*innen hatten ihren eigenen Zugang und Rechte als Blog-Autor\*in. Die Webseite, in die der Blog-Teil eingebettet ist, wurde von uns Lehrkräften in Hinblick auf Inhalte und Struktur entwickelt.
+Webseite und Blog wurden mit Hilfe des cloudbasierten Content-Management-Systems (CMS) *wix.com* erstellt und administriert. Eine Webseite mit statischen Inhalten wurde von uns Lehrkräften in Hinblick auf Inhalte und Struktur entwickelt, um den Schüler\*innen einen definierten Rahmen zu stecken. In die Webseite eingebetettet ist ein Blog-Teil, in dem die Schüler\*innen mit ihren eigenen Zugängen und Rechten als Blog-Autor\*innen mit Inhalten füllten. Jeder Kurs bekam sein eigenes Tag (Label/ "Kategorie"), mit dem die Artikel ausgezeichnet wurden. Der NW-Kurs wies seine Artikel mit dem Label "Biologische Daten" aus, die Informatik-Kurse unter dem Label "Sensorik" bzw. "3D-Modell". Die Label konnten dann über das Menü der Webseite angesteuert werden:
+
+[BILD]
 
 Voraussetzung für die Verteilung der Rollen als autonome Blog-Autor\*innen waren persönliche E-Mail-Adressen, die den Schüler\*innen im Rahmen von Office365-Accounts zur Verfügung standen.
 
@@ -88,9 +91,9 @@ Voraussetzung für die Verteilung der Rollen als autonome Blog-Autor\*innen ware
 
 Alle Unterrichtsreihen eignet sich insbesondere durch die Blog-Funktion der Projekt-Webseite neben der Vermittlung relevanter informatorischer und biologischer Inhalte gezielt für die Medienkompetenzförderung im Sinne des [Medienkompetenzrahmens NRW](https://medienkompetenzrahmen.nrw/medienkompetenzrahmen-nrw/): Alle sechs [Kompetenzbereiche](https://medienkompetenzrahmen.nrw/fileadmin/pdf/LVR_ZMB_MKR_Rahmen_A4_2019_06_Final.pdf) werden in hohem Maße Bereichen gestärkt.
 
-In der Übersicht über die Reihenplanung sind die geförderten Medienkompetenzen aufgeführt.
+In der Übersicht über die Reihenplanung [LINK] sind die geförderten Medienkompetenzen aufgeführt.
 
-Neben Tools, die den Austausch und die Kommunikation und Präsentation fördern (v. a. Blog-Tool, Erklärvideo), werden in den Informatik-Kursen fachspezifische Programme angewendet, die im Kapitel xxx erläutert werden.
+Neben Tools, die den Austausch und die Kommunikation und Präsentation fördern (v. a. Blog-Tool, Erklärvideo), werden in den Informatik-Kursen fachspezifische Programme angewendet, die im Kapitel [LINK] erläutert werden.
 
 ## Unterrichtsreihen in den einzelnen Kursen
 
@@ -98,9 +101,9 @@ Neben Tools, die den Austausch und die Kommunikation und Präsentation fördern 
 
 ### Diff-IT \(8\): Simulation von Verhaltensmustern von Wespen mittels Sensoren und Aktoren
 
-Die Simulation der Sensorik einer Wespe wurde von dem Differenzierungskurs Informatik der Jahrgangsstufe 8 modelliert und mit Hilfe der SenseBox - einer Arduino-kompatiblen MCU - sowie zugehöriger, speziell für die Messung von Umweltdaten entwickelten Sensoren implementiert.
+Die Simulation der Sensorik einer Wespe wurde von dem Differenzierungskurs Informatik der Jahrgangsstufe 8 modelliert und mit Hilfe der SenseBox [LINK] - einer Arduino-kompatiblen MCU - sowie zugehöriger, speziell für die Messung von Umweltdaten entwickelten Sensoren implementiert.
 
-Die insgesamt 20 Schüler\*innen verfügten über Programmierkenntnisse auf Einsteiger\*innen-Niveau. Ihre Arbeitsschritte und Ergebnisse haben sie schriftlich in Form von Blog-Artikeln zusammengefasst, durch Screenshots und Bilder illustriert und kritisch reflektiert. Darüber hinaus können die \(Teil-\) Ergebnisse der Schüler\*innen für die Wiederverwendung aus dem Blog herunter geladen werden.
+Die insgesamt 20 Schüler\*innen verfügten über Programmierkenntnisse auf Einsteiger\*innen-Niveau. Ihre \(Teil-\) Ergebnisse - die Programmierung einzelner Sensoren - in Form von XML-Blöcken bzw. *ino*-Dateien \(Arduino Sketch File\) sind im Blog veröffentlicht und erläutert und können so für die Wiederverwendung aus dem Blog herunter geladen bzw. nachgebaut werden.
 
 #### Ziele der Unterrichtsreihe
 
@@ -111,13 +114,11 @@ Die Ziele der Unterrichtsreihe decken sich mit denen auf den [Seiten der SenseBo
 
 #### Didaktische Konzeption
 
-Die 20 Schüler\*innen hatten zum Zeitpunkt der Durchführung erstmalig in ihrer Schulkariere seit fünf Monaten Informatik-Unterricht. Ihre Programmierkenntnisse sind deswegen als basal einzustufen. Mit Hilfe der Programmierumgebung Sonic Pi \("\Audible Programming"\) hatten sie bereits den Einsatz von Kontrollstrukturen erlernt und eingesetzt. Die Verwendung von Variablen sowie die Ausgabe von Strings haben sie im Rahmen des Projekts neu erlernt. Aus diesem Grunde war für die Wahl des Systems relevant, dass sich die MCU über eine block-basierte Programmierung ansteuern ließ, um den Schüler\*innen die Programmierung zu erleichtern. Die Arduino-Blockly hat sich für unsere Zwecke äußerst bewährt: Die Oberfläche lässt sich leicht bedienen, ist sehr gut dokumentiert und die Ansteuerung der Sensoren funktioniert fehlerfrei. Die Schüler\*innen kamen sehr schnell zu Ergebnissen und haben nach eigenen Angaben Spaß an der Programmierung gehabt.
+Die 20 Schüler\*innen hatten zum Zeitpunkt der Durchführung erstmalig in ihrer Schulkariere seit fünf Monaten Informatik-Unterricht. Ihre Programmierkenntnisse sind deswegen als basal einzustufen. Mit Hilfe der Programmierumgebung Sonic Pi \(*Audible Programming*\) hatten sie bereits textbasiert den Einsatz von Kontrollstrukturen erlernt und eingesetzt. Die Verwendung von Variablen sowie die Ausgabe von Strings haben sie im Rahmen des Projekts neu erlernt. Aus diesem Grunde war für die Wahl des Systems relevant, dass sich die MCU über eine block-basierte Programmierung ansteuern ließ, um den Schüler\*innen die Programmierung zu erleichtern. Die Arduino-Blockly hat sich für unsere Zwecke äußerst bewährt: Die Oberfläche lässt sich leicht bedienen, ist sehr gut dokumentiert und die Ansteuerung der Sensoren funktioniert fehlerfrei. Die Schüler\*innen kamen sehr schnell zu Ergebnissen und haben nach eigenen Angaben Spaß an der Programmierung gehabt.
 
 Wie jede Lerngruppe ist diese sehr heterogen und die Interessensschwerpunkte verschieden. Deswegen wurde eine umfangreiche Materialsammlung \(Lernkarten, Erklärvideos, Musterlösungen\) online bereit gestellt. Dies hat die Schüler\*innen darüber hinaus in der selbstgesteuerten und eigenverantwortlichen Gruppenarbeiten unterstützt.
 
 Vielen Schüler\*innen ist die schriftliche Dokumentation und adressatengerechte Präsentation der eigenen Arbeitsschritte schwer gefallen. Das Verfassen von Blog-Artikeln hat allerdings eine hohe Motivation dargestellt. Methoden der Deutsch-Didaktik \("Schreib-Werkstatt"\) empfehlen sich hier.
-
-Alle von den Schüler\*innen dieses Kurses verfassten Artikel wurden im Blog mit dem Label "Simulation der Sensorik" versehen.
 
 #### Digitale Werkzeuge
 
