@@ -97,7 +97,15 @@ Neben Tools, die den Austausch und die Kommunikation und Präsentation fördern 
 
 ## Unterrichtsreihen in den einzelnen Kursen
 
-### NW-Kurs
+### NW-Kurs: Recherche relevanter biologischer Daten und Schaffen einer wissenschaftlichen Grundlage für die Simulation
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+
+Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.
+
+Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
 
 ### Diff-IT \(8\): Simulation von Verhaltensmustern von Wespen mittels Sensoren und Aktoren
 
@@ -146,11 +154,16 @@ Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu int
 
 ![](https://github.com/cc-education/AnimalSim/blob/master/Blockly%20Programmieroberfl%C3%A4che.jpg)
 
+#### Schulexterne Kooperation mit dem zdi-Schüler\*innen-Labor der Rheinischen FH
+
+Als Kooperationspartner für die Sensorik-Reihe stand das [zdi-Schüler\*innen-Labor der Rheinischen FH](https://www.rfh-koeln.de/die_rfh/servicebereiche/schuelerlabor/index_ger.html) unter der Leitung von Prof. Doost zur Verfügung, dem wir für die hilfreiche Unterstützung zusammen mit seinem Team danken.
+Er und sein Team waren bereit, uns ihre Räumlichkeiten und Unterstützung während eines eintägigen Sensorik-Workshops anzubieten, sodass die Programmierung der Sensoren - mit entsprechender Vorbereitung - an nur einem Tag durchgeführt werden konnte.
+
+Der Kontakt wurde vermittelt durch das [zdi-Zentrum Köln](https://www.zdi-zentrum-koeln.de) - ein regionales Netzwerk, das die Akteure im MINT-Bereich zusammenbringt und fördert.
+
 #### Struktur der Unterrichtsreihe
 
 In der folgenden Übersicht finden Sie die Makroplanung der Reihe mit allen verwendeten Arbeitsmaterialien und Produkten der Schüler\*innen. Der besseren Lesbarkeit halber können Sie sich das [Reihen-Übersichtsraster](https://github.com/cc-education/AnimalSim/blob/master/Reihenplanung%20Diff-8%20IF.pdf) als PDF herunterladen.
-
-Als Kooperationspartner für diese Reihe stand das [zdi-Schüler\*innen-Labor der Rheinischen FH](https://www.rfh-koeln.de/die_rfh/servicebereiche/schuelerlabor/index_ger.html) unter der Leitung von Prof. Doost zur Verfügung, dem wir für die hilfreiche Unterstützung zusammen mit seinem Team danken.
 
 | **Einheit** | **Dauer und Arbeitsform** | **Thema** | **Material/ Aufgabenstellung** | **Produkt** | **Kompetenzen:** [**\(M\)edienkomptetenzen**](https://medienkompetenzrahmen.nrw/fileadmin/pdf/LVR_ZMB_MKR_Rahmen_A4_2019_06_Final.pdf)**,** [**\(I\)nformatik-Lehrplan**](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/informatik-klp/kompetenzen/kompetenzen.html) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -165,42 +178,25 @@ Als Kooperationspartner für diese Reihe stand das [zdi-Schüler\*innen-Labor de
 | 9 | 1 Doppelstunde, kursübergreifende Gruppenarbeit | Erarbeitung einer gemeinsamen Bühnenpräsentation zur Vorstellung des Exponats |  | [Folien Bühnenpräsentation](https://github.com/cc-education/AnimalSim/blob/master/KAS_Pr%C3%A4sentation_AnimalSim.pdf) | **M**: 3.1, 4.1 **I**: Kommunizieren und Kooperieren |
 | 10 | Gemeinsame Kursübergreifende Abschlussveranstaltung mit Bühnenpräsentation |  |  |  |  |
 
-### Diff-IT \(9\)
+### Diff-IT \(9\): 3D-Modellierung des Wespentorsos & 3D-Druck
 
-Der grobe Reihenverlauf des Differenzierungskurses der Jahrgangsstufe 9 war geprägt von einem extrem knappen Zeitplan. Da der Kurs von mir erst zum neuen Jahr übernommen werden konnte, waren insgesamt nur fünf Doppelstunden eingeplant - dank dem Sturmtief Sabine, durch das am stürmischen Montag alle Kölner Schulen geschlosse werden mussten, waren es im Endeffekt sogar nur vier Doppelstunden. Aus schulorganisatorischen Gründen konnte sogar - leider nur für einen Teil der Schüler\*innen - ein vier Stunden Block an einem Tag gesetzt werden, so dass der Ausfall durch Sabine kompensiert werden konnte.
-
-Die gesamte Reihe lässt sich in drei Blöcke gliedern: Einführung, Arbeit an der Robo-Wespe und Zussammenbau & Bloggen.
-
-Block 1: Einführung - Zeit: 2 Unterrichtsstunden Die Einführung in TinkerCAD wurde bewusst spielerisch gehalten, um den intuitiven Zugang, den dieses Browserbasierte Tool ermöglicht \(siehe auch Kapitel Mikroplanung/3D-Modellierung & 3D-Druck\), voll auszuschöpfen. So wurde als einzige Aufgabe gestellt, das Tool ausgiebig zu testen. Als einzige Vorrausetzung wurde gegeben, ein erste 3D-Modell, das die Schüler\*innen selbst wählen konnten, zu kreieren.
-
-Block 2: Arbeit an der Robo-Wespe - Zeit: 6 Unterrichtsstunden Die selbsterstellten ersten 3D-Modelle der Schüler\*innen wurden zur nächsten Unterrichtssitzung am heimischen 3D-Drucker ausgedruckt. Dieses Vorgehen hatte mindestens zwei Gründe: Erstens bietet ein solches erstes, kleines und durch die Schüler\*innen selbst modelliertes 3D-Objekt eine enorme intrinsische Motivation. Zweitens kann an den Schüler\*innenmodellen gut die Diskrepanz zwischen am Computer entwickeltem 3D-Modell und fertig, gedrucktem und realen 3D-Objekt aufgezeigt werden. So stellten sich heraus, das sowohl sehr filigrane als auch frei schwebende Teile eines 3D-Modells nur schwer oder gar nicht mit einem 3D-Drucker gefertigt werden konnten.
-
-Auf dieser Grundlage konnte dann die Arbeit an dem eigentlichen 3D-Modell einer Wespe aufgenommen werden. Diese wurde dabei bewusst mit einem hohen kooperativen Moment versehen, um die fünf Elemente kooperativen Lernens wie so Green \(2004\) vorstellt - positive Abhängigkeit, untersützende Interaktion, individuelle Gruppenverantwortlichkeit, gruppeninterne Kommunikation und kontinuierliche Gruppenbewertung \(Vgl. Green, Norm \(2004\): Der Unterschied zwischen Kooperativem Lernen und Gruppenarbeit besteht in den 5 grundlegenden Elementen. Originaltitel: The Difference between Cooperative Learning and Group Work are the 5 Basic Elements. Übersetzt von Carmen Druyen. Einzusehen auf [http://methodenpool.uni-koeln.de/koopunterricht/ger\_the\_difference.pdf](http://methodenpool.uni-koeln.de/koopunterricht/ger_the_difference.pdf) \(18.02.2020\)\) - zur Unterstützung der Erreichung des knapp terminierten Ziels in die Gruppenarbeit einzubringen. Dazu wurden die Gruppen am Anfang der Arbeitsweise vor die Aufgabe gestellt, insgesamt vier Rollen an die vier Gruppenmitglieder eigenständig zu verteilen: Gruppenleiter\*in, 3D-Modellier\*in, Blogger\*in und Spion\*in. Die Rollen 3D-Modellier\*in und Blogger\*in tragen insgesamt die inhaltliche Veranwortung - erstere ist zuständig für die Entwicklung des 3D-Modells, zweiteres für die Dokumentation desselben. Die oder der Spion\*in wiederum darf sich Anregungen in anderen Gruppen suchen. Die Person, die die Rolle Gruppenleiter\*in inne hat, trägt letztenendlich die gesamte Verantwortung für das Projekt und kann Arbeit auch dilligieren. Wichtig jedoch und für die Schüler\*innen stets transparent zu betonen ist, dass diese Rolle nur Verantwortung aber keine festen Arbeitsbereiche definieren. Alle Gruppenmitglieder sollten die zwei Hauptaufgaben dieser Gruppenarbeit tragen: 3D-Modellierung und die Dokumentation derselben.
-
-Interessant war, dass eine Kooperation aber nicht nur durch die Struktur der Lehrkraft, sondern auch durch gruppeninterne Dynamik eingebracht wurde. So war es "natürliche" Entwicklung innerhalb der Gruppen, dass innerhalb der 3D-Modellierung das Modell auch inhaltlich aufgeteilt wurde. Eine Person machte den Kopf der Wespe, eine andere den Körper und wiederum eine andere Person die Beine, Fühler und Flügel. Neben der daraus zwigend resultierenden Kooperation, reflektierten die Schüler\*innen während der Dokumentation innerhalb des Blogs nicht nur eine enorme inhaltliche Entlastung, sondern zugleich das Potenzial, das 3D-Modell der Wespe detailierter zu entwickeln.
-
-* Bei Schwierigkeiten -&gt; Aufgabe des Spions sich Tipps bei anderen Gruppen zu erhalten, Lehrkraft nur allerletzter Ansprechpartner
-
-Block 3: Zusammenbau & Bloggen - Zeit: 4 Unterrichtsstunden
-
-* ZUsammebau größtenteils durch Planung der Schüler\*innen
-
-
-### 3D-Modellierung & 3D-Druck
-
-Die 3D-Modellierung und der 3D-Druck bilden nicht nur in moderner Fertigungstechnik, technischer Entwicklung und wissenschaftlicher Forschung eine zunehmend prominentere Rolle, sondern hält auch Einzug in die moderne Didaktik schulischen Unterrichts. Von vielen noch oft stiefmütterlich als technische "Spielerei" abgetan, bietet die Modellierung von 3D-Objekten und der spätere Druck eine enorme Bandbreite an für die Schüler\*innen interessanten fächerübergreifenden Entwicklungsmöglichkeiten. So sind die Schüler\*innen vor komplexen visuellen und technischen Probleme gestellt, die sie - bei passendem Setting - selbstgesteuert und selbstbestimmt lösen können. Ist der Druck - wie in unserem Fall - zudem fächer- und stufenübergreifend mit anderen Teilbereichen des naturwissenschaftlich-technischen Zweigs verknüpft, können sich die Schüler\*innen zudem in kooperativer Teamarbeit ausprobieren. Die komplette Bandbreite von komplexen Problemlösungsstrategien bis hin zu anspruchsvoller kommunikativer Arbeit ist folglich vertreten.
+Die 3D-Modellierung und der 3D-Druck bilden nicht nur in moderner Fertigungstechnik, technischer Entwicklung und wissenschaftlicher Forschung eine zunehmend prominentere Rolle, sondern hält auch Einzug in die moderne Didaktik schulischen Unterrichts. 
 
 Das Funktionsprinzip eines, bzw. unseres verwendeten 3D-Druckers ist simpel: ein beheizbarer Druckkopf verflüssigt einen dünnen 1,75 mm dicken Kunststofffaden \(in unserem Fall ist dieser Kunststoff vollkommen kompostierbares PLA\). Durch Bewegeung des Druckkopfes kann schichtweise ein 3D-Modell "gedruckt" werden. Dieses Schmelzschitungsverfahren, zu englisch "Fused Deposition Modeling" \(FDM\), ist dabei mit einer computergesteuerten Heißklebepistole mit besonderem Material vergleichbar.
 
-#### Warum in unserem Projekt 3D-Modellierung und 3D-Druck Verwendung fand
+#### Ziele der Unterrichtsreihe
 
-Zusätzlich zur Sensorik soll das Modell noch die Form einer Wespe imitieren. Dafür gibt es mindestens drei Gründen, wovon zwei zweckmäßig und das dritte schülerorientiert sind : Erstens wirkt auf diese Weise das Modell realistischer. Allein die Form ruft bei vielen Menschen schon Assoziationen hervor, die als Arbeitsbasis und Wechselwirkungsgrundlage unserer Grundidee - eine erfahrbare und automatisierte Prävention eines Wespenstiches zu kreieren - dienen. Anders gesagt: um Menschen durch Wechselwirkung mit einem Modell zu verdeutlichen, wann Wespen zustechen und wann nicht, ist es zwingend erforderlich, dass sie auch eigene Erfahrung mit in die Simulation bringen, um diese zu überprüfen und zu ergänzen.
+Von vielen noch oft stiefmütterlich als technische "Spielerei" abgetan, bietet die Modellierung von 3D-Objekten und der spätere Druck eine enorme Bandbreite an für die Schüler\*innen interessanten fächerübergreifenden Entwicklungsmöglichkeiten. So sind die Schüler\*innen vor komplexen visuellen und technischen Probleme gestellt, die sie - bei passendem Setting - selbstgesteuert und selbstbestimmt lösen können. Ist der Druck - wie in unserem Fall - zudem fächer- und stufenübergreifend mit anderen Teilbereichen des naturwissenschaftlich-technischen Zweigs verknüpft, können sich die Schüler\*innen zudem in kooperativer Teamarbeit ausprobieren. Die komplette Bandbreite von komplexen Problemlösungsstrategien bis hin zu anspruchsvoller kommunikativer Arbeit ist folglich vertreten.
+
+Zusätzlich zur Sensorik soll das 3D-Modell noch die Form einer Wespe imitieren. Dafür gibt es mindestens drei Gründen, wovon zwei zweckmäßig und das dritte schülerorientiert sind : Erstens wirkt auf diese Weise das Modell realistischer. Allein die Form ruft bei vielen Menschen schon Assoziationen hervor, die als Arbeitsbasis und Wechselwirkungsgrundlage unserer Grundidee - eine erfahrbare und automatisierte Prävention eines Wespenstiches zu kreieren - dienen. Anders gesagt: um Menschen durch Wechselwirkung mit einem Modell zu verdeutlichen, wann Wespen zustechen und wann nicht, ist es zwingend erforderlich, dass sie auch eigene Erfahrung mit in die Simulation bringen, um diese zu überprüfen und zu ergänzen.
 
 Zweitens ermöglicht der 3D-Druck insbesondere eine zusätzliche materialisierte Möglichkeit, Stressreaktion zu veranschaulichen. So ist in unserem Fall der Körper der Wespe aus so genanntem Thermofilament - einem Material, dass bei Temperaturänderung seine Farbe ändert. Auf diese Weise kann die Reaktion der Wespe auf Temperaturveränderungen visuell verdeutlicht werden.
 
 Drittens bietet dieses Projekt den Schüler\*innen eine hervorragende Möglichkeit, sich mit dem zukunftsorientiertem Themenbereich "3D-Modellierung und 3D-Druck" auseinanderzusetzen. Hervorragend, da in diesem Fall dieser Themenbereich niemals losgelöst, sondern immer als vermitteltender Teil innerhalb eines den Alltag bereicherden Systems gedacht wird. Die Automatisierung des Stressverhaltens einer Wespe bietet also ein praxisnahes, sinnvolles und für die Schüler\*innen nachvollziehbares Anwendungsbeispiel der 3D-Modellierung und dem sich anschließendem 3D-Druck.
 
-#### TinkerCad - ein intuitives, schülerfreundliches und cloudbasiertes 3D-Modellierungsprogramm
+#### Digitale Werkzeuge
+
+**TinkerCad - ein intuitives, schülerfreundliches und cloudbasiertes 3D-Modellierungsprogramm**
 
 Auf der Suche nach einem für die Schüler\*innen geeigneten und leicht zugänglichen Tool, um 3D-Modelle selbst zu kreieren und zu entwickeln, gab es jede Menge zur Verfügung stehende Software. Von Sketch-Up, einem cloudbasierten Browser-3D-Modellierungs-Tool bis hin zu Open-Source Giganten wie Blender stach ein besonderes Konzept heraus: TinkerCAD. Für dieses Programm sprechen mindestens drei Gründe:
 
@@ -214,11 +210,31 @@ Letztens bietet TinkerCAD einen intuitiven, für die Schüler\*innen leicht zu b
 
 finales Modell mit ungruppierten \(a\) und gruppierten \(b\) Elementen. Insbesondere in Bild \(b\) gut zu erkennen, sind die Quader, die als Bohrung definiert sind und bei Gruppierung aller Elemente die eingeschlossenen Objektteile ausschneiden \(Bild \(a\)\).
 
-#### Der 3D-Druck - Kooperation mit der Stadtbibliothek Köln
+#### Schulexterne Kooperation mit der Stadtbibliothek Köln
 
-Als größte Schwierigkeit und neben den sonstigen, organisatorischen Herausforderungen gestaltete sich der Druck des erstellten 3D-Modells. Hierbei lieferten Christine Kern und Bodo Pohla von unserem Kooperationspartner, der Stadtbibliothek Köln, nicht nur das benötigte Material, sondern investierten auch enorm viel Zeit und Sachverstand in den 3D-Druck unsere Exponats. Besonders bemerkenswert war dabei die vollkommen unkomplizierte Kommunikation, die für ein solch großes Projekt immer und überall nötig ist. So waren die Modelle dank der ständigen Arbeit von Frau Kern und Herrn Pohla innerhalb weniger Tage fertig \(und das bei Druckzeiten von mehreren Stunden pro Modell\).
+Als größte Schwierigkeit gestaltete sich der Druck des erstellten 3D-Modells. Hierbei lieferten Christine Kern und Bodo Pohla von unserem Kooperationspartner, der Stadtbibliothek Köln, nicht nur das benötigte Material, sondern investierten auch enorm viel Zeit und Sachverstand in den 3D-Druck unsere Exponats. Besonders bemerkenswert war dabei die vollkommen unkomplizierte Kommunikation, die für ein solch großes Projekt immer und überall nötig ist. So waren die Modelle dank der ständigen Arbeit von Frau Kern und Herrn Pohla innerhalb weniger Tage fertig \(und das bei Druckzeiten von mehreren Stunden pro Modell\).
 
 Zudem lieferten unsere Kooperationspartner auch fur unsere Zwecke hervorragend geeignetes Filament. So besteht der Körper der Wespe aus sogenanntem Thermofilament. Dieses Material ändert bei Wärmeveränderung die Farb - in unserem Fall ist es bei Normaltemperatur rot und wird bei Temperaturen über 30°C weiß. Die Flügel wiederum bestehen aus einem im dunkeln leuchtendes PLA; auf diese Weise konnte wir auch das Verhalten der Wepse in der Nacht simulieren - die im dunkeln leuchtenden Flügel symbolisieren dabei den Flug in ihr heimisches Nest.
+
+Der grobe Reihenverlauf des Differenzierungskurses der Jahrgangsstufe 9 war geprägt von einem extrem knappen Zeitplan. Da der Kurs von mir erst zum neuen Jahr übernommen werden konnte, waren insgesamt nur fünf Doppelstunden eingeplant - dank dem Sturmtief Sabine, durch das am stürmischen Montag alle Kölner Schulen geschlosse werden mussten, waren es im Endeffekt sogar nur vier Doppelstunden. Aus schulorganisatorischen Gründen konnte sogar - leider nur für einen Teil der Schüler\*innen - ein vier Stunden Block an einem Tag gesetzt werden, so dass der Ausfall durch Sabine kompensiert werden konnte.
+
+#### Struktur der Unterrichtsreihe
+
+Die gesamte Reihe lässt sich in drei Blöcke gliedern: Einführung, Arbeit an der Robo-Wespe und Zussammenbau & Bloggen.
+
+Block 1: Einführung - Zeit: 2 Unterrichtsstunden Die Einführung in TinkerCAD wurde bewusst spielerisch gehalten, um den intuitiven Zugang, den dieses Browserbasierte Tool ermöglicht, voll auszuschöpfen. So wurde als einzige Aufgabe gestellt, das Tool ausgiebig zu testen. Als einzige Vorrausetzung wurde gegeben, ein erste 3D-Modell, das die Schüler\*innen selbst wählen konnten, zu kreieren.
+
+Block 2: Arbeit an der Robo-Wespe - Zeit: 6 Unterrichtsstunden Die selbsterstellten ersten 3D-Modelle der Schüler\*innen wurden zur nächsten Unterrichtssitzung am heimischen 3D-Drucker ausgedruckt. Dieses Vorgehen hatte mindestens zwei Gründe: Erstens bietet ein solches erstes, kleines und durch die Schüler\*innen selbst modelliertes 3D-Objekt eine enorme intrinsische Motivation. Zweitens kann an den Schüler\*innenmodellen gut die Diskrepanz zwischen am Computer entwickeltem 3D-Modell und fertig, gedrucktem und realen 3D-Objekt aufgezeigt werden. So stellten sich heraus, das sowohl sehr filigrane als auch frei schwebende Teile eines 3D-Modells nur schwer oder gar nicht mit einem 3D-Drucker gefertigt werden konnten.
+
+Auf dieser Grundlage konnte dann die Arbeit an dem eigentlichen 3D-Modell einer Wespe aufgenommen werden. Diese wurde dabei bewusst mit einem hohen kooperativen Moment versehen, um die fünf Elemente kooperativen Lernens wie so Green \(2004\) vorstellt - positive Abhängigkeit, untersützende Interaktion, individuelle Gruppenverantwortlichkeit, gruppeninterne Kommunikation und kontinuierliche Gruppenbewertung \(Vgl. Green, Norm \(2004\): Der Unterschied zwischen Kooperativem Lernen und Gruppenarbeit besteht in den 5 grundlegenden Elementen. Originaltitel: The Difference between Cooperative Learning and Group Work are the 5 Basic Elements. Übersetzt von Carmen Druyen. Einzusehen auf [http://methodenpool.uni-koeln.de/koopunterricht/ger\_the\_difference.pdf](http://methodenpool.uni-koeln.de/koopunterricht/ger_the_difference.pdf) \(18.02.2020\)\) - zur Unterstützung der Erreichung des knapp terminierten Ziels in die Gruppenarbeit einzubringen. Dazu wurden die Gruppen am Anfang der Arbeitsweise vor die Aufgabe gestellt, insgesamt vier Rollen an die vier Gruppenmitglieder eigenständig zu verteilen: Gruppenleiter\*in, 3D-Modellier\*in, Blogger\*in und Spion\*in. Die Rollen 3D-Modellier\*in und Blogger\*in tragen insgesamt die inhaltliche Veranwortung - erstere ist zuständig für die Entwicklung des 3D-Modells, zweiteres für die Dokumentation desselben. Die oder der Spion\*in wiederum darf sich Anregungen in anderen Gruppen suchen. Die Person, die die Rolle Gruppenleiter\*in inne hat, trägt letztenendlich die gesamte Verantwortung für das Projekt und kann Arbeit auch dilligieren. Wichtig jedoch und für die Schüler\*innen stets transparent zu betonen ist, dass diese Rolle nur Verantwortung aber keine festen Arbeitsbereiche definieren. Alle Gruppenmitglieder sollten die zwei Hauptaufgaben dieser Gruppenarbeit tragen: 3D-Modellierung und die Dokumentation derselben.
+
+Interessant war, dass eine Kooperation aber nicht nur durch die Struktur der Lehrkraft, sondern auch durch gruppeninterne Dynamik eingebracht wurde. So war es "natürliche" Entwicklung innerhalb der Gruppen, dass innerhalb der 3D-Modellierung das Modell auch inhaltlich aufgeteilt wurde. Eine Person machte den Kopf der Wespe, eine andere den Körper und wiederum eine andere Person die Beine, Fühler und Flügel. Neben der daraus zwigend resultierenden Kooperation, reflektierten die Schüler\*innen während der Dokumentation innerhalb des Blogs nicht nur eine enorme inhaltliche Entlastung, sondern zugleich das Potenzial, das 3D-Modell der Wespe detailierter zu entwickeln.
+
+* Bei Schwierigkeiten -&gt; Aufgabe des Spions sich Tipps bei anderen Gruppen zu erhalten, Lehrkraft nur allerletzter Ansprechpartner
+
+Block 3: Zusammenbau & Bloggen - Zeit: 4 Unterrichtsstunden
+
+* ZUsammebau größtenteils durch Planung der Schüler\*innen
 
 ## Blog Präsentation
 
@@ -309,6 +325,5 @@ Auch die Entwicklung weiterer Tiersimulation wäre eine gute Möglichkeit auf in
 
 Ein weiterer Kandidat für eine mögliche Tiersimulation, der häufig missverstanden, aber unentbehrlich für unser von Waldstücken dominierten Umwelt ist, wären Ameisen. Dieses Mitglied der Familie der Insekten stört häufig nicht nur bei Picknicks, sondern kann auch größere Schäde in einem Haus anrichten. Dabei werden die Tiere häufig durch unsachgemäß gelagerte Lebensmittel angelockt.
 In diesem Fall würde daher auch die Fragestellung weit verschoben. Es ginge nicht mehr um eine Stechprävention (oder nicht nur), sondern vielmehr darum, unter welchen Bedingungen Ameisen angelockt werden.
-
 
 Diese einfachen Entwicklungsperspektiven zeigen bereits das enorme Potenzial von Tiersimulation, das es in Zukunft zu entdecken und zu erforschen gilt.
