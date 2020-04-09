@@ -1,9 +1,8 @@
----
+e---
 description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt von Jacqueline Anthes, Florian Haase & Andrea Heiseler
 ---
 
 # AnimalSim
-# Eine Tiersimulation realisiert mit Microcontroller und 3D-Druck
 
 ## Einleitung
 
@@ -32,13 +31,12 @@ Im Sinne des Spiralcurriculums wurde das Vorhaben in der Mittelstufe angesiedelt
 
 Im vergangenen Schuljahr haben Informatik-Schüler\*innen der Jahrgangsstufe 9 erste Tiersimulationen mit den in der Schule vorhandenen Raspberry Pis programmiert. Die Wahl der Tiere stand den Schüler\*innen offen. 
 Aus diesen ersten Versuchen ließ sich nicht nur eine erste Unterrichtsskizze entwickeln, die ins Finale des Wettbewerbs gewählt und mit 500€ Spende zur Realisierung des Vorhabens prämiert wurde, es konnten darüber hinaus wichtige Erkenntnisse für diese Arbeit abgeleitet werden:
-1.	Ein derart komplexes Projekt muss fächerverbindend durchgeführt werden, damit es die nötige naturwissenschaftliche Tiefe erlangt.
-2.	Für den fächerverbindenden Austausch bedarf es einer geeigneten und motivierenden digitalen Plattform.
-3.	Gemeinsame verbindende Unterrichtsziele müssen definiert und trotz Verteilung der unterschiedlichen Aufgaben gemeinsam verfolgt werden.
-4.	Der Microcontroller Raspberry Pi ist zwar in ausreichender Stückzahl vorhanden, verfügt aber nur über digitale Anschlüsse für Sensoren, sodass Sensordaten zu ungenau sind. Es bedarf eines Systems mit hoher Genauigkeit im relevanten Messbereich. Zudem muss das System aufgrund der Komplexität der Aufgabenstellung einfach zu programmieren sein- idealerweise mit Hilfe einer Blockly-Programmierung.
-5.	Aufgrund von Umbau-Maßnahmen im Schulgebäude leidet der naturwissenschaftliche Bereich gerade unter erheblichem Platzmangel und Einschränkungen in der Ausstattung. Dies motivierte uns geeignete außerschulische Lernorte und -partner zu finden und deren Infrastruktur, Expertise und Vernetzung zu nutzen.
-6.	Den Schüler\*innen die Wahl des Tieres zu überlassen, ist zwar motivierend, birgt aber auch enorme Schwierigkeiten in der angemessenen Betreuung und Beratung. Außerdem erschwert es die gemeinsame Diskussion und Reflexion im Plenum und den Austausch der Schüler\*innen untereinander. Deswegen haben wir uns auf nur ein Tier geeinigt. Das Auswahlkriterium war dabei vor allem der Bezug zu der Lebenswelt der Schüler\*innen. Die Wahl des Insekt fiel deshalb (auch) auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schüler\*innen gehört. In Hinblick auf weitere Projekte eignet sie sich gut für den Vergleich mit anderen Stechinsekten.
-
+- Ein derart komplexes Projekt muss fächerverbindend durchgeführt werden, damit es die nötige naturwissenschaftliche Tiefe erlangt.
+- Für den fächerverbindenden Austausch bedarf es einer geeigneten und motivierenden digitalen Plattform.
+- Gemeinsame verbindende Unterrichtsziele müssen definiert und trotz Verteilung der unterschiedlichen Aufgaben gemeinsam verfolgt werden.
+- Der Microcontroller Raspberry Pi ist zwar in ausreichender Stückzahl vorhanden, verfügt aber nur über digitale Anschlüsse für Sensoren, sodass Sensordaten zu ungenau sind. Es bedarf eines Systems mit hoher Genauigkeit im relevanten Messbereich. Zudem muss das System aufgrund der Komplexität der Aufgabenstellung einfach zu programmieren sein- idealerweise mit Hilfe einer Blockly-Programmierung.
+- Aufgrund von Umbau-Maßnahmen im Schulgebäude leidet der naturwissenschaftliche Bereich gerade unter erheblichem Platzmangel und Einschränkungen in der Ausstattung. Dies motivierte uns geeignete außerschulische Lernorte und -partner zu finden und deren Infrastruktur, Expertise und Vernetzung zu nutzen.
+- Den Schüler\*innen die Wahl des Tieres zu überlassen, ist zwar motivierend, birgt aber auch enorme Schwierigkeiten in der angemessenen Betreuung und Beratung. Außerdem erschwert es die gemeinsame Diskussion und Reflexion im Plenum und den Austausch der Schüler\*innen untereinander. Deswegen haben wir uns auf nur ein Tier geeinigt. Das Auswahlkriterium war dabei vor allem der Bezug zu der Lebenswelt der Schüler\*innen. Die Wahl des Insekt fiel deshalb (auch) auf die Wespe, weil einerseits die Motivation zur eigenen Verhaltensänderung als Präventivmaßnahme vor schmerzhaften Stichen sehr hoch ist und andererseits ein Insekt ist, mit der Menschen tatsächlich häufig in Kontakt sind und die zur Lebenswelt der Schüler\*innen gehört. In Hinblick auf weitere Projekte eignet sie sich gut für den Vergleich mit anderen Stechinsekten.
 
 ### Organisation der fächerverbindenden Arbeit
 
