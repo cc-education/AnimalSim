@@ -1,4 +1,4 @@
-e---
+---
 description: Ein fächerverbindendes jahrgangsstufenübergreifendes MINT-Projekt von Jacqueline Anthes, Florian Haase & Andrea Heiseler
 ---
 
@@ -79,9 +79,14 @@ Die unten stehenden Ziele wurden für alle drei Lerngruppen verbindlich definier
 
 Die eigens für dieses Projekt programmierte Webseite mit eingebettetem Blog bildete eine schülerorientierte, leicht zu bedienende Plattform zum gemeinsamen kollaborativen Arbeiten über Fächer und Jahrgangsstufen hinweg.
 
-Webseite und Blog wurden mit Hilfe des cloudbasierten Content-Management-Systems (CMS) *wix.com* erstellt und administriert. Eine Webseite mit statischen Inhalten wurde von uns Lehrkräften in Hinblick auf Inhalte und Struktur entwickelt, um den Schüler\*innen einen definierten Rahmen zu stecken. In die Webseite eingebetettet ist ein Blog-Teil, in dem die Schüler\*innen mit ihren eigenen Zugängen und Rechten als Blog-Autor\*innen mit Inhalten füllten. Jeder Kurs bekam sein eigenes Tag (Label/ "Kategorie"), mit dem die Artikel ausgezeichnet wurden. Der NW-Kurs wies seine Artikel mit dem Label "Biologische Daten" aus, die Informatik-Kurse unter dem Label "Sensorik" bzw. "3D-Modell". Die Label konnten dann über das Menü der Webseite angesteuert werden:
+Webseite und Blog wurden mit Hilfe des cloudbasierten Content-Management-Systems (CMS) *wix.com* erstellt und administriert. Eine Webseite mit statischen Inhalten wurde von uns Lehrkräften in Hinblick auf Inhalte und Struktur entwickelt, um den Schüler\*innen einen definierten Rahmen zu stecken. 
+In die Webseite eingebetettet ist ein Blog-Teil, in dem die Schüler\*innen mit ihren eigenen Zugängen und Rechten als Blog-Autor\*innen mit Inhalten füllten. Jeder Kurs bekam sein eigenes Tag (Label/ "Kategorie"), mit dem die Artikel ausgezeichnet wurden. 
+![]https://github.com/cc-education/AnimalSim/blob/master/webseite%20-%20kategorien.jpg
 
-[BILD]
+Der NW-Kurs wies seine Artikel mit dem Label "Biologische Daten" aus, die Informatik-Kurse unter dem Label "Sensorik" bzw. "3D-Modell". 
+Die Label konnten dann über das Menü der Webseite angesteuert werden:
+
+![]https://github.com/cc-education/AnimalSim/blob/master/Webseite%20-%20label%20als%20menue.jpg
 
 Voraussetzung für die Verteilung der Rollen als autonome Blog-Autor\*innen waren persönliche E-Mail-Adressen, die den Schüler\*innen im Rahmen von Office365-Accounts zur Verfügung standen.
 
