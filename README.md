@@ -106,10 +106,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.
-
-Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
-
 ### Diff-IT \(8\): Simulation von Verhaltensmustern von Wespen mittels Sensoren und Aktoren
 
 Die Simulation der Sensorik einer Wespe wurde von dem Differenzierungskurs Informatik der Jahrgangsstufe 8 modelliert und mit Hilfe der SenseBox [LINK] - einer Arduino-kompatiblen MCU - sowie zugehöriger, speziell für die Messung von Umweltdaten entwickelten Sensoren implementiert.
@@ -130,6 +126,13 @@ Die 20 Schüler\*innen hatten zum Zeitpunkt der Durchführung erstmalig in ihrer
 Wie jede Lerngruppe ist diese sehr heterogen und die Interessensschwerpunkte verschieden. Deswegen wurde eine umfangreiche Materialsammlung \(Lernkarten, Erklärvideos, Musterlösungen\) online bereit gestellt. Dies hat die Schüler\*innen darüber hinaus in der selbstgesteuerten und eigenverantwortlichen Gruppenarbeiten unterstützt.
 
 Vielen Schüler\*innen ist die schriftliche Dokumentation und adressatengerechte Präsentation der eigenen Arbeitsschritte schwer gefallen. Das Verfassen von Blog-Artikeln hat allerdings eine hohe Motivation dargestellt. Methoden der Deutsch-Didaktik \("Schreib-Werkstatt"\) empfehlen sich hier.
+
+Herausforderungen bestanden zum einen in der Zuordnung der Rechercheergebnisse des NW-Kurs zu konkreten Sensoren und den Messdaten. Es fand sich besipielsweise heraus, dass Wespen auf Erhöhung von CO2-Werten mit Stress reagieren, Schwellenwerte, die zu einer deutlichen Veränderung führen, konnten allerdings nicht gefunden werden. Die Frage, ob es an einer Datenbasis mangelt, blieb unbeantwortet.
+Die Schüler\*innen fokussierten sich im Hinblick auf die Simulation deswegen auf Erhöhung des CO2-Gehaltes, der durch den Atem verursacht wird und legten Messbereiche davon ausgehend fest (grün = CO2-Gehalt des Raumes, rot = Gehalt bei Pusten in das Röhrchen des Sensors, orange = Werte dazwischen). 
+Andere Gruppen (wie zum Beispiel die Gruppe "Lusftdrucksensor) ließ sich nicht eindeutig einem realen Wespen-Sensor zugeordnet werden. Deswegen hat sich die Gruppe entschieden mit Hilfe des Luftdrucksensors darzustellen, wann Wespen bei Wind nicht mehr fliegen können und gingen davon aus, dass dies zu Stress führt.
+Die Zuordnung der Wepsen-Sensoren zu den SenseBox-Sensoren haben die Schüler\*innen in einem Artikel namens [Sensoren-Plan](https://jacanthes.wixsite.com/tiersimulationen/post/die-sensoren-der-wespe-und-wie-sie-sich-programmieren-lassen) zusammengefasst.
+
+Ein weiterer wichtiger Punkt war die Zusammenfügung der einzeln programmierten Sensoren zu einem Gesamtergebnis: Die Gruppe, die beispielsweise den Temepratursensor programmiert hatte, legte fest, dass die "Stressampel" ab 35°C auf rot springt. Was bedeutet es aber für die Simulation, wenn die Temperatur nun 30°C beträgt, sich dann aber noch der CO2-Gehalt erhöht? Wie wird aus den beiden Teilergebnissen ein Gesamtergebnis? An dieser Stelle konnte das Konzept der Variablen vertieft werden und den Schüler\*innen sehr plausibel demonstrieren, welche Funktionen Variablen haben. Es wurde eine Variable "stresslevel" mit Werten eingeführt, die sich durch die Messwerte der einzelnen Sensoren erhöhen (<= 10) oder mindern konnte (>=0). Der Wert der Variablen "stresslevel" schließlich führte zu der entsprechenden Ausgabe - zum Beispiel rot leuchtende LED: die Wespe würde mit hoher Wahrscheinlichkeit zustechen. 
 
 #### Digitale Werkzeuge
 
