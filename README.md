@@ -65,7 +65,7 @@ In einem letzten Schritt wurde das Exponat entworfen und gebaut, die Ergebnisse 
 
 Die drei wesentlichen aufeinander aufbauenden Stufen der Projektarbeit wird anhand folgender Grafik illustriert: 
 
-![](.gitbook/assets/0.png)
+![](https://github.com/cc-education/AnimalSim/blob/master/Arbeitsschritte.png)
 
 ### Verbindende Unterrichtsziele
 
@@ -144,7 +144,7 @@ Insgesamt wurden folgende Hardware-Komponenten für die Gruppenarbeit in fünf T
 
 Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu intuitiv bedienbare _Arduino Blockly_-[Programmieroberfläche](https://blockly.sensebox.de/), die stabil und zuverlässig in allen Browsern als Web-App läuft. Selbst Schüler_innen ohne Vorkenntnisse können so problemlos in die Programmierung von Sensoren sowie einiger Aktoren \(LEDs, Display, Audio und Stepper- bzw. Servo-Motor\) einsteigen. Ein deutschsprachiges Tutorial in Form eines GitBooks begleitet die Schüler_innen sogar im eigenständigen Arbeiten. Der Quellcode wird gut sichtbar im rechten Fensterbereich angezeigt, sodass der Quellcode bereits während der Programmierung mit Blöcken in den Unterricht einbezogen werden kann. Die so programmierten "Sketche" können online kompiliert und leicht und unkompliziert per USB auf die SenseBox als .ino-Dateien übertragen werden. Auch das Speichern von Blöcken im XML-Format ist möglich. 
 
-![](.gitbook/assets/1.jpeg)
+![](https://github.com/cc-education/AnimalSim/blob/master/Blockly%20Programmieroberfl%C3%A4che.jpg)
 
 #### Struktur der Unterrichtsreihe
 
