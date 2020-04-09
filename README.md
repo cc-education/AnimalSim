@@ -150,7 +150,7 @@ Das zweite wichtige Argument für die Verwendung der SenseBox ist die nahezu int
 
 In der folgenden Übersicht finden Sie die Makroplanung der Reihe mit allen verwendeten Arbeitsmaterialien und Produkten der Schüler\*innen. Der besseren Lesbarkeit halber können Sie sich das [Reihen-Übersichtsraster](https://github.com/cc-education/AnimalSim/blob/master/Reihenplanung%20Diff-8%20IF.pdf) als PDF herunterladen.
 
-Als Kooperationspartner für diese Reihe stand das Schüler\*innen-Labor der Rheinischen FH unter der Leitung von Prof. Doost zur Verfügung, dem wir für die hilfreiche Unterstützung zusammen mit seinem Team danken.
+Als Kooperationspartner für diese Reihe stand das [zdi-Schüler\*innen-Labor der Rheinischen FH](https://www.rfh-koeln.de/die_rfh/servicebereiche/schuelerlabor/index_ger.html) unter der Leitung von Prof. Doost zur Verfügung, dem wir für die hilfreiche Unterstützung zusammen mit seinem Team danken.
 
 | **Einheit** | **Dauer und Arbeitsform** | **Thema** | **Material/ Aufgabenstellung** | **Produkt** | **Kompetenzen:** [**\(M\)edienkomptetenzen**](https://medienkompetenzrahmen.nrw/fileadmin/pdf/LVR_ZMB_MKR_Rahmen_A4_2019_06_Final.pdf)**,** [**\(I\)nformatik-Lehrplan**](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/informatik-klp/kompetenzen/kompetenzen.html) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
